@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 469b007ab3acdc049afc4cd851e6958a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5043325056869580142
+    second: Cultist_attack_hitbox_0
+  - first:
+      213: -1423802561361627741
+    second: Cultist_attack_hitbox_1
+  - first:
+      213: 6201636507318859553
+    second: Cultist_attack_hitbox_2
+  - first:
+      213: 7951898046720887645
+    second: Cultist_attack_hitbox_3
+  - first:
+      213: -785104621403325389
+    second: Cultist_attack_hitbox_4
+  - first:
+      213: -4346418383462920066
+    second: Cultist_attack_hitbox_5
+  - first:
+      213: -4012751909336823147
+    second: Cultist_attack_hitbox_6
+  - first:
+      213: -1127484906631909445
+    second: Cultist_attack_hitbox_7
+  - first:
+      213: 1813217563859297102
+    second: Cultist_attack_hitbox_8
+  - first:
+      213: -3435269006443946405
+    second: Cultist_attack_hitbox_9
+  - first:
+      213: 8930961615070088732
+    second: Cultist_attack_hitbox_10
+  - first:
+      213: -8531399761504715758
+    second: Cultist_attack_hitbox_11
+  - first:
+      213: -5216489609240426785
+    second: Cultist_attack_hitbox_12
+  - first:
+      213: 5617713299645453704
+    second: Cultist_attack_hitbox_13
+  - first:
+      213: -5002901268235219276
+    second: Cultist_attack_hitbox_14
+  - first:
+      213: -681797781239885624
+    second: Cultist_attack_hitbox_15
+  - first:
+      213: 8848109415163476090
+    second: Cultist_attack_hitbox_16
+  - first:
+      213: 4167628099240659545
+    second: Cultist_attack_hitbox_17
+  - first:
+      213: -5806711073817075500
+    second: Cultist_attack_hitbox_18
+  - first:
+      213: 7240938798631750137
+    second: Cultist_attack_hitbox_19
+  - first:
+      213: -1962579211408413575
+    second: Cultist_attack_hitbox_20
+  - first:
+      213: -8001307828771106643
+    second: Cultist_attack_hitbox_21
+  - first:
+      213: -8567784345580215313
+    second: Cultist_attack_hitbox_22
+  - first:
+      213: -1738039515129345680
+    second: Cultist_attack_hitbox_23
+  - first:
+      213: -5037561978743804985
+    second: Cultist_attack_hitbox_24
+  - first:
+      213: -467638150212786651
+    second: Cultist_attack_hitbox_25
+  - first:
+      213: -5101788845555763553
+    second: Cultist_attack_hitbox_26
+  - first:
+      213: 8755894835036105810
+    second: Cultist_attack_hitbox_27
+  - first:
+      213: 5164911126788717903
+    second: Cultist_attack_hitbox_28
+  - first:
+      213: -6456246011404103222
+    second: Cultist_attack_hitbox_29
+  - first:
+      213: -7830002890325298132
+    second: Cultist_attack_hitbox_30
+  - first:
+      213: -1557082609298036459
+    second: Cultist_attack_hitbox_31
+  - first:
+      213: 6066470140754826388
+    second: Cultist_attack_hitbox_32
+  - first:
+      213: 1020136377112799726
+    second: Cultist_attack_hitbox_33
+  - first:
+      213: 8969206615074684221
+    second: Cultist_attack_hitbox_34
+  - first:
+      213: -3043187290246832977
+    second: Cultist_attack_hitbox_35
+  - first:
+      213: -4039246638940671143
+    second: Cultist_attack_hitbox_36
+  - first:
+      213: -3588507087774058964
+    second: Cultist_attack_hitbox_37
+  - first:
+      213: 5423669992899416418
+    second: Cultist_attack_hitbox_38
+  - first:
+      213: -4536111545230664616
+    second: Cultist_attack_hitbox_39
+  - first:
+      213: 740010778809315976
+    second: Cultist_attack_hitbox_40
+  - first:
+      213: 6429765608226613664
+    second: Cultist_attack_hitbox_41
+  - first:
+      213: -5040453177707398394
+    second: Cultist_attack_hitbox_42
+  - first:
+      213: 7398396429038279800
+    second: Cultist_attack_hitbox_43
+  - first:
+      213: -2096836161108720332
+    second: Cultist_attack_hitbox_44
+  - first:
+      213: -392963574232336726
+    second: Cultist_attack_hitbox_45
+  - first:
+      213: -7403051076737466617
+    second: Cultist_attack_hitbox_46
+  - first:
+      213: -5161961341671455996
+    second: Cultist_attack_hitbox_47
+  - first:
+      213: 520093509341254027
+    second: Cultist_attack_hitbox_48
+  - first:
+      213: -618308558097434386
+    second: Cultist_attack_hitbox_49
+  - first:
+      213: -4423865347681361887
+    second: Cultist_attack_hitbox_50
+  - first:
+      213: 6420184789431844582
+    second: Cultist_attack_hitbox_51
+  - first:
+      213: -429629904405844039
+    second: Cultist_attack_hitbox_52
+  - first:
+      213: -6494196097620090402
+    second: Cultist_attack_hitbox_53
+  - first:
+      213: -3547552636337608089
+    second: Cultist_attack_hitbox_54
+  - first:
+      213: -3104084848753888058
+    second: Cultist_attack_hitbox_55
+  - first:
+      213: 5565958969048460579
+    second: Cultist_attack_hitbox_56
+  - first:
+      213: -1512575883649902600
+    second: Cultist_attack_hitbox_57
+  - first:
+      213: -2442863012806011612
+    second: Cultist_attack_hitbox_58
+  - first:
+      213: -3629228142230966153
+    second: Cultist_attack_hitbox_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 614
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292467ad492820ab0800000000000000
+      internalID: -5043325056869580142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 629
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5bfb33d13ad3ce0800000000000000
+      internalID: -1423802561361627741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 614
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b5d4bb83a01650800000000000000
+      internalID: 6201636507318859553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 554
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bcbec7421da5e60800000000000000
+      internalID: 7951898046720887645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 542
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cbcb9a18fba15f0800000000000000
+      internalID: -785104621403325389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 554
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e701770328b6ea3c0800000000000000
+      internalID: -4346418383462920066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 545
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a45302667df48c0800000000000000
+      internalID: -4012751909336823147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 545
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf279a737e5a50f0800000000000000
+      internalID: -1127484906631909445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 542
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43255a74c7d92910800000000000000
+      internalID: 1813217563859297102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 542
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5edffa1a097350d0800000000000000
+      internalID: -3435269006443946405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 536
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ec6e8454621fb70800000000000000
+      internalID: 8930961615070088732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 530
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cb8a24e116a9980800000000000000
+      internalID: -8531399761504715758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 539
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd645baa65e4b97b0800000000000000
+      internalID: -5216489609240426785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 539
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885da5b6b7026fd40800000000000000
+      internalID: 5617713299645453704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 527
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be0d749dcf129ab0800000000000000
+      internalID: -5002901268235219276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 458
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c01c80c784c986f0800000000000000
+      internalID: -681797781239885624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 464
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78bb9042accaca70800000000000000
+      internalID: 8848109415163476090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 452
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a0d2bdca366d930800000000000000
+      internalID: 4167628099240659545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 443
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d06ecb2b0b6a6fa0800000000000000
+      internalID: -5806711073817075500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 443
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f90ac4297bfc7460800000000000000
+      internalID: 7240938798631750137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 443
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c6f6cfa9483c4e0800000000000000
+      internalID: -1962579211408413575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_21
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 443
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0db872ce4a5f090800000000000000
+      internalID: -8001307828771106643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 419
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e981288d191980800000000000000
+      internalID: -8567784345580215313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0798f1ff44e31e7e0800000000000000
+      internalID: -1738039515129345680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 419
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb26fa021cf61ab0800000000000000
+      internalID: -5037561978743804985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 422
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526652d749d9289f0800000000000000
+      internalID: -467638150212786651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 407
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96399d431ec239b0800000000000000
+      internalID: -5101788845555763553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 407
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c210536ff238970800000000000000
+      internalID: 8755894835036105810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_28
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 407
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d34b01e437da740800000000000000
+      internalID: 5164911126788717903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1d9b3957ec666a0800000000000000
+      internalID: -6456246011404103222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 284
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24f0eb3bdd365390800000000000000
+      internalID: -7830002890325298132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 296
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5192adadd91246ae0800000000000000
+      internalID: -1557082609298036459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 290
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4949434937e603450800000000000000
+      internalID: 6066470140754826388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 275
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9234c41a0482e00800000000000000
+      internalID: 1020136377112799726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 275
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3c9045e5097c70800000000000000
+      internalID: 8969206615074684221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_35
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 275
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac9ad3784d64c5d0800000000000000
+      internalID: -3043187290246832977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 275
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95330cd2596b1f7c0800000000000000
+      internalID: -4039246638940671143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 251
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26714ff0df033ec0800000000000000
+      internalID: -3588507087774058964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 251
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26117b96f1fb44b40800000000000000
+      internalID: 5423669992899416418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_39
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 251
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c5afc359e7c01c0800000000000000
+      internalID: -4536111545230664616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_40
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 254
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882b3e0f1eb054a00800000000000000
+      internalID: 740010778809315976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 239
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9ee5b11cd1b3950800000000000000
+      internalID: 6429765608226613664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 239
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bf2c35a86bc0ab0800000000000000
+      internalID: -5040453177707398394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_43
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 239
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c58549a526ca660800000000000000
+      internalID: 7398396429038279800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 239
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435cbe8fe9a86e2e0800000000000000
+      internalID: -2096836161108720332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 140
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b63416b9eb8af0800000000000000
+      internalID: -392963574232336726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_46
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 149
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f7dfcc444134990800000000000000
+      internalID: -7403051076737466617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_47
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 155
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403cf5d42870d58b0800000000000000
+      internalID: -5161961341671455996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81954a8a4eb73700800000000000000
+      internalID: 520093509341254027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8b40174a35b67f0800000000000000
+      internalID: -618308558097434386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_50
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ea49a7e54b92c0800000000000000
+      internalID: -4423865347681361887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_51
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 134
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee7376ec04191950800000000000000
+      internalID: 6420184789431844582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_52
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 137
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf2103d0e5a90af0800000000000000
+      internalID: -429629904405844039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_53
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 137
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed160a39e0bffd5a0800000000000000
+      internalID: -6494196097620090402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_54
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa8194caf84cec0800000000000000
+      internalID: -3547552636337608089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_55
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c43a55b6431ce4d0800000000000000
+      internalID: -3104084848753888058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d688051324e3d40800000000000000
+      internalID: 5565958969048460579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_57
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 113
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7993f6f30420be0800000000000000
+      internalID: -1512575883649902600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_58
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 119
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425d1ce5805391ed0800000000000000
+      internalID: -2442863012806011612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist_attack_hitbox_59
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 119
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770f87dab3462adc0800000000000000
+      internalID: -3629228142230966153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cultist_attack_hitbox_0: -5043325056869580142
+      Cultist_attack_hitbox_1: -1423802561361627741
+      Cultist_attack_hitbox_10: 8930961615070088732
+      Cultist_attack_hitbox_11: -8531399761504715758
+      Cultist_attack_hitbox_12: -5216489609240426785
+      Cultist_attack_hitbox_13: 5617713299645453704
+      Cultist_attack_hitbox_14: -5002901268235219276
+      Cultist_attack_hitbox_15: -681797781239885624
+      Cultist_attack_hitbox_16: 8848109415163476090
+      Cultist_attack_hitbox_17: 4167628099240659545
+      Cultist_attack_hitbox_18: -5806711073817075500
+      Cultist_attack_hitbox_19: 7240938798631750137
+      Cultist_attack_hitbox_2: 6201636507318859553
+      Cultist_attack_hitbox_20: -1962579211408413575
+      Cultist_attack_hitbox_21: -8001307828771106643
+      Cultist_attack_hitbox_22: -8567784345580215313
+      Cultist_attack_hitbox_23: -1738039515129345680
+      Cultist_attack_hitbox_24: -5037561978743804985
+      Cultist_attack_hitbox_25: -467638150212786651
+      Cultist_attack_hitbox_26: -5101788845555763553
+      Cultist_attack_hitbox_27: 8755894835036105810
+      Cultist_attack_hitbox_28: 5164911126788717903
+      Cultist_attack_hitbox_29: -6456246011404103222
+      Cultist_attack_hitbox_3: 7951898046720887645
+      Cultist_attack_hitbox_30: -7830002890325298132
+      Cultist_attack_hitbox_31: -1557082609298036459
+      Cultist_attack_hitbox_32: 6066470140754826388
+      Cultist_attack_hitbox_33: 1020136377112799726
+      Cultist_attack_hitbox_34: 8969206615074684221
+      Cultist_attack_hitbox_35: -3043187290246832977
+      Cultist_attack_hitbox_36: -4039246638940671143
+      Cultist_attack_hitbox_37: -3588507087774058964
+      Cultist_attack_hitbox_38: 5423669992899416418
+      Cultist_attack_hitbox_39: -4536111545230664616
+      Cultist_attack_hitbox_4: -785104621403325389
+      Cultist_attack_hitbox_40: 740010778809315976
+      Cultist_attack_hitbox_41: 6429765608226613664
+      Cultist_attack_hitbox_42: -5040453177707398394
+      Cultist_attack_hitbox_43: 7398396429038279800
+      Cultist_attack_hitbox_44: -2096836161108720332
+      Cultist_attack_hitbox_45: -392963574232336726
+      Cultist_attack_hitbox_46: -7403051076737466617
+      Cultist_attack_hitbox_47: -5161961341671455996
+      Cultist_attack_hitbox_48: 520093509341254027
+      Cultist_attack_hitbox_49: -618308558097434386
+      Cultist_attack_hitbox_5: -4346418383462920066
+      Cultist_attack_hitbox_50: -4423865347681361887
+      Cultist_attack_hitbox_51: 6420184789431844582
+      Cultist_attack_hitbox_52: -429629904405844039
+      Cultist_attack_hitbox_53: -6494196097620090402
+      Cultist_attack_hitbox_54: -3547552636337608089
+      Cultist_attack_hitbox_55: -3104084848753888058
+      Cultist_attack_hitbox_56: 5565958969048460579
+      Cultist_attack_hitbox_57: -1512575883649902600
+      Cultist_attack_hitbox_58: -2442863012806011612
+      Cultist_attack_hitbox_59: -3629228142230966153
+      Cultist_attack_hitbox_6: -4012751909336823147
+      Cultist_attack_hitbox_7: -1127484906631909445
+      Cultist_attack_hitbox_8: 1813217563859297102
+      Cultist_attack_hitbox_9: -3435269006443946405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0efe90e165a197d4ca407702ca9366dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3030207352648587746
+    second: Cultist03_attack_NOhitbox_0
+  - first:
+      213: -6412423040655583487
+    second: Cultist03_attack_NOhitbox_1
+  - first:
+      213: -6540742946888874033
+    second: Cultist03_attack_NOhitbox_2
+  - first:
+      213: 8332456563122415651
+    second: Cultist03_attack_NOhitbox_3
+  - first:
+      213: -4299956588065204133
+    second: Cultist03_attack_NOhitbox_4
+  - first:
+      213: 1163523012092819579
+    second: Cultist03_attack_NOhitbox_5
+  - first:
+      213: -8980576010760541290
+    second: Cultist03_attack_NOhitbox_6
+  - first:
+      213: 5196255502937117583
+    second: Cultist03_attack_NOhitbox_7
+  - first:
+      213: -210771083027735141
+    second: Cultist03_attack_NOhitbox_8
+  - first:
+      213: 7018474105010175666
+    second: Cultist03_attack_NOhitbox_9
+  - first:
+      213: 8588428286602416829
+    second: Cultist03_attack_NOhitbox_10
+  - first:
+      213: -5473949288729918813
+    second: Cultist03_attack_NOhitbox_11
+  - first:
+      213: -8131700971205769793
+    second: Cultist03_attack_NOhitbox_12
+  - first:
+      213: 771565992164492023
+    second: Cultist03_attack_NOhitbox_13
+  - first:
+      213: 5720517240365202822
+    second: Cultist03_attack_NOhitbox_14
+  - first:
+      213: -7398568216577502472
+    second: Cultist03_attack_NOhitbox_15
+  - first:
+      213: -5692731326694245984
+    second: Cultist03_attack_NOhitbox_16
+  - first:
+      213: -2079770453444080724
+    second: Cultist03_attack_NOhitbox_17
+  - first:
+      213: -7607055435488095939
+    second: Cultist03_attack_NOhitbox_18
+  - first:
+      213: 4202921585035617767
+    second: Cultist03_attack_NOhitbox_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 575
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9556258857d0a20800000000000000
+      internalID: 3030207352648587746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1079130183f7207a0800000000000000
+      internalID: -6412423040655583487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 575
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc70c83b1fc9a35a0800000000000000
+      internalID: -6540742946888874033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 575
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a84fc815d2a370800000000000000
+      internalID: 8332456563122415651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 575
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58d5cae34c7354c0800000000000000
+      internalID: -4299956588065204133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 407
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78f8cfc30aa52010800000000000000
+      internalID: 1163523012092819579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 407
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b293803b59e5380800000000000000
+      internalID: -8980576010760541290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 407
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f835cb659decc1840800000000000000
+      internalID: 5196255502937117583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 407
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d153311d0331df0800000000000000
+      internalID: -210771083027735141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 407
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beb8665301a66160800000000000000
+      internalID: 7018474105010175666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 239
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db29ad1f50a303770800000000000000
+      internalID: 8588428286602416829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 239
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a240c6cf10a804b0800000000000000
+      internalID: -5473949288729918813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 239
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c49fdc05662f80800000000000000
+      internalID: -8131700971205769793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f28cb39e2725ba00800000000000000
+      internalID: 771565992164492023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 239
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d377b1f1c536f40800000000000000
+      internalID: 5720517240365202822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f217640861035990800000000000000
+      internalID: -7398568216577502472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 71
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b6ae050b5ff0b0800000000000000
+      internalID: -5692731326694245984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 71
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabcc1caacb2323e0800000000000000
+      internalID: -2079770453444080724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 71
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d311705a26f4e6690800000000000000
+      internalID: -7607055435488095939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist03_attack_NOhitbox_19
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 71
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5aeded9e6c35a30800000000000000
+      internalID: 4202921585035617767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cultist03_attack_NOhitbox_0: 3030207352648587746
+      Cultist03_attack_NOhitbox_1: -6412423040655583487
+      Cultist03_attack_NOhitbox_10: 8588428286602416829
+      Cultist03_attack_NOhitbox_11: -5473949288729918813
+      Cultist03_attack_NOhitbox_12: -8131700971205769793
+      Cultist03_attack_NOhitbox_13: 771565992164492023
+      Cultist03_attack_NOhitbox_14: 5720517240365202822
+      Cultist03_attack_NOhitbox_15: -7398568216577502472
+      Cultist03_attack_NOhitbox_16: -5692731326694245984
+      Cultist03_attack_NOhitbox_17: -2079770453444080724
+      Cultist03_attack_NOhitbox_18: -7607055435488095939
+      Cultist03_attack_NOhitbox_19: 4202921585035617767
+      Cultist03_attack_NOhitbox_2: -6540742946888874033
+      Cultist03_attack_NOhitbox_3: 8332456563122415651
+      Cultist03_attack_NOhitbox_4: -4299956588065204133
+      Cultist03_attack_NOhitbox_5: 1163523012092819579
+      Cultist03_attack_NOhitbox_6: -8980576010760541290
+      Cultist03_attack_NOhitbox_7: 5196255502937117583
+      Cultist03_attack_NOhitbox_8: -210771083027735141
+      Cultist03_attack_NOhitbox_9: 7018474105010175666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

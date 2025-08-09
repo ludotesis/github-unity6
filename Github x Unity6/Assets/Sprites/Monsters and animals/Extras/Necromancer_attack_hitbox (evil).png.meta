@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: b6b5eec1125a536489d3e1bae7c57341
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6313120918671036111
+    second: Necromancer_attack_hitbox (evil)_0
+  - first:
+      213: 4959652370173795170
+    second: Necromancer_attack_hitbox (evil)_1
+  - first:
+      213: 2339507064543414613
+    second: Necromancer_attack_hitbox (evil)_2
+  - first:
+      213: 5951447955932051380
+    second: Necromancer_attack_hitbox (evil)_3
+  - first:
+      213: 6356203597550212146
+    second: Necromancer_attack_hitbox (evil)_4
+  - first:
+      213: 1554738088539525790
+    second: Necromancer_attack_hitbox (evil)_5
+  - first:
+      213: -8283437269241718528
+    second: Necromancer_attack_hitbox (evil)_6
+  - first:
+      213: -8308302256477763332
+    second: Necromancer_attack_hitbox (evil)_7
+  - first:
+      213: 6421066541105371016
+    second: Necromancer_attack_hitbox (evil)_8
+  - first:
+      213: -4642893070861976754
+    second: Necromancer_attack_hitbox (evil)_9
+  - first:
+      213: -2455561192538898051
+    second: Necromancer_attack_hitbox (evil)_10
+  - first:
+      213: 2798355797141748857
+    second: Necromancer_attack_hitbox (evil)_11
+  - first:
+      213: 3758496787170465228
+    second: Necromancer_attack_hitbox (evil)_12
+  - first:
+      213: 3292863784264231683
+    second: Necromancer_attack_hitbox (evil)_13
+  - first:
+      213: -46317305794145599
+    second: Necromancer_attack_hitbox (evil)_14
+  - first:
+      213: -3789031642617771018
+    second: Necromancer_attack_hitbox (evil)_15
+  - first:
+      213: 5907695451431633701
+    second: Necromancer_attack_hitbox (evil)_16
+  - first:
+      213: -5872337511999884734
+    second: Necromancer_attack_hitbox (evil)_17
+  - first:
+      213: 3207432941795398477
+    second: Necromancer_attack_hitbox (evil)_18
+  - first:
+      213: -8517799378834774224
+    second: Necromancer_attack_hitbox (evil)_19
+  - first:
+      213: 2314207730853382510
+    second: Necromancer_attack_hitbox (evil)_20
+  - first:
+      213: 4870222870506011626
+    second: Necromancer_attack_hitbox (evil)_21
+  - first:
+      213: -7862140701848130292
+    second: Necromancer_attack_hitbox (evil)_22
+  - first:
+      213: -1739030662253372464
+    second: Necromancer_attack_hitbox (evil)_23
+  - first:
+      213: -1808489401139668434
+    second: Necromancer_attack_hitbox (evil)_24
+  - first:
+      213: 1637842191993349722
+    second: Necromancer_attack_hitbox (evil)_25
+  - first:
+      213: -6893374409853610280
+    second: Necromancer_attack_hitbox (evil)_26
+  - first:
+      213: -3600853340365346632
+    second: Necromancer_attack_hitbox (evil)_27
+  - first:
+      213: 8196020152214958582
+    second: Necromancer_attack_hitbox (evil)_28
+  - first:
+      213: 5953221700614604145
+    second: Necromancer_attack_hitbox (evil)_29
+  - first:
+      213: 1440020462634583506
+    second: Necromancer_attack_hitbox (evil)_30
+  - first:
+      213: -7794411222374658026
+    second: Necromancer_attack_hitbox (evil)_31
+  - first:
+      213: 7702484850286092381
+    second: Necromancer_attack_hitbox (evil)_32
+  - first:
+      213: -1395456711531471003
+    second: Necromancer_attack_hitbox (evil)_33
+  - first:
+      213: -4169566259908920881
+    second: Necromancer_attack_hitbox (evil)_34
+  - first:
+      213: -2529146625405364846
+    second: Necromancer_attack_hitbox (evil)_35
+  - first:
+      213: 3699901598848248728
+    second: Necromancer_attack_hitbox (evil)_36
+  - first:
+      213: 4125629896161867854
+    second: Necromancer_attack_hitbox (evil)_37
+  - first:
+      213: -5740527193987139798
+    second: Necromancer_attack_hitbox (evil)_38
+  - first:
+      213: -5365088045498015309
+    second: Necromancer_attack_hitbox (evil)_39
+  - first:
+      213: 2587150784948479776
+    second: Necromancer_attack_hitbox (evil)_40
+  - first:
+      213: -1922093526428921366
+    second: Necromancer_attack_hitbox (evil)_41
+  - first:
+      213: 8180831752089917365
+    second: Necromancer_attack_hitbox (evil)_42
+  - first:
+      213: 6663774574454699304
+    second: Necromancer_attack_hitbox (evil)_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 626
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce8975f606bc9750800000000000000
+      internalID: 6313120918671036111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 599
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b12a5ad8934d440800000000000000
+      internalID: 4959652370173795170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 599
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55980aba749977020800000000000000
+      internalID: 2339507064543414613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 566
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7fd80426ac79250800000000000000
+      internalID: 5951447955932051380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_4
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 563
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2345a00de75c53850800000000000000
+      internalID: 6356203597550212146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 560
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e921b2edd0a839510800000000000000
+      internalID: 1554738088539525790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 575
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0099d9fe0b15b0d80800000000000000
+      internalID: -8283437269241718528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 575
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf80114fd1bf2bc80800000000000000
+      internalID: -8308302256477763332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 557
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8875bb5bff53c1950800000000000000
+      internalID: 6421066541105371016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 461
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b3625e951219fb0800000000000000
+      internalID: -4642893070861976754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 407
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d710c720b181cedd0800000000000000
+      internalID: -2455561192538898051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 407
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf9cb65c1c5d620800000000000000
+      internalID: 2798355797141748857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 407
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc51eb02aecd82430800000000000000
+      internalID: 3758496787170465228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 443
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b61da5a2a92bd20800000000000000
+      internalID: 3292863784264231683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 419
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2df21e7a27b5ff0800000000000000
+      internalID: -46317305794145599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 413
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb8d03dbc7aa6bc0800000000000000
+      internalID: -3789031642617771018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 413
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52306c776b95cf150800000000000000
+      internalID: 5907695451431633701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 413
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242bb045524418ea0800000000000000
+      internalID: -5872337511999884734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 422
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43d9905447138c20800000000000000
+      internalID: 3207432941795398477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 410
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037a28c1892bac980800000000000000
+      internalID: -8517799378834774224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 293
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e698af58ba7bd1020800000000000000
+      internalID: 2314207730853382510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 239
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb7e7da5e1869340800000000000000
+      internalID: 4870222870506011626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 239
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0da334efa014e290800000000000000
+      internalID: -7862140701848130292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_23
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 239
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db10e293d8bdd7e0800000000000000
+      internalID: -1739030662253372464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_24
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 275
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad201b874f6e6e0800000000000000
+      internalID: -1808489401139668434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 251
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5629e3cbc8cab610800000000000000
+      internalID: 1637842191993349722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 245
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d658e43f70d550a0800000000000000
+      internalID: -6893374409853610280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_27
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 245
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ae3f07f2370ec0800000000000000
+      internalID: -3600853340365346632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 245
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f137b077ec1eb170800000000000000
+      internalID: 8196020152214958582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 254
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175c74e58971e9250800000000000000
+      internalID: 5953221700614604145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 242
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c0a03bfafbf310800000000000000
+      internalID: 1440020462634583506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 122
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6105a013a40b4d390800000000000000
+      internalID: -7794411222374658026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 104
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50612d6929b4ea60800000000000000
+      internalID: 7702484850286092381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 107
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5bb9a38752ace0800000000000000
+      internalID: -1395456711531471003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 83
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9bca2f399b226c0800000000000000
+      internalID: -4169566259908920881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_35
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 122
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295d5df4b8aa6ecd0800000000000000
+      internalID: -2529146625405364846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 95
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bef37b6e0b85330800000000000000
+      internalID: 3699901598848248728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48b573388e214930800000000000000
+      internalID: 4125629896161867854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_38
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 77
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a273de28eec8550b0800000000000000
+      internalID: -5740527193987139798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_39
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 77
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1656b19d06b85b0800000000000000
+      internalID: -5365088045498015309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_40
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 89
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0272a3d7ee767e320800000000000000
+      internalID: 2587150784948479776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_41
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 89
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae150241f1a5355e0800000000000000
+      internalID: -1922093526428921366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 74
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b75e867227288170800000000000000
+      internalID: 8180831752089917365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_attack_hitbox (evil)_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 74
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825f6a55bab7a7c50800000000000000
+      internalID: 6663774574454699304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Necromancer_attack_hitbox (evil)_0: 6313120918671036111
+      Necromancer_attack_hitbox (evil)_1: 4959652370173795170
+      Necromancer_attack_hitbox (evil)_10: -2455561192538898051
+      Necromancer_attack_hitbox (evil)_11: 2798355797141748857
+      Necromancer_attack_hitbox (evil)_12: 3758496787170465228
+      Necromancer_attack_hitbox (evil)_13: 3292863784264231683
+      Necromancer_attack_hitbox (evil)_14: -46317305794145599
+      Necromancer_attack_hitbox (evil)_15: -3789031642617771018
+      Necromancer_attack_hitbox (evil)_16: 5907695451431633701
+      Necromancer_attack_hitbox (evil)_17: -5872337511999884734
+      Necromancer_attack_hitbox (evil)_18: 3207432941795398477
+      Necromancer_attack_hitbox (evil)_19: -8517799378834774224
+      Necromancer_attack_hitbox (evil)_2: 2339507064543414613
+      Necromancer_attack_hitbox (evil)_20: 2314207730853382510
+      Necromancer_attack_hitbox (evil)_21: 4870222870506011626
+      Necromancer_attack_hitbox (evil)_22: -7862140701848130292
+      Necromancer_attack_hitbox (evil)_23: -1739030662253372464
+      Necromancer_attack_hitbox (evil)_24: -1808489401139668434
+      Necromancer_attack_hitbox (evil)_25: 1637842191993349722
+      Necromancer_attack_hitbox (evil)_26: -6893374409853610280
+      Necromancer_attack_hitbox (evil)_27: -3600853340365346632
+      Necromancer_attack_hitbox (evil)_28: 8196020152214958582
+      Necromancer_attack_hitbox (evil)_29: 5953221700614604145
+      Necromancer_attack_hitbox (evil)_3: 5951447955932051380
+      Necromancer_attack_hitbox (evil)_30: 1440020462634583506
+      Necromancer_attack_hitbox (evil)_31: -7794411222374658026
+      Necromancer_attack_hitbox (evil)_32: 7702484850286092381
+      Necromancer_attack_hitbox (evil)_33: -1395456711531471003
+      Necromancer_attack_hitbox (evil)_34: -4169566259908920881
+      Necromancer_attack_hitbox (evil)_35: -2529146625405364846
+      Necromancer_attack_hitbox (evil)_36: 3699901598848248728
+      Necromancer_attack_hitbox (evil)_37: 4125629896161867854
+      Necromancer_attack_hitbox (evil)_38: -5740527193987139798
+      Necromancer_attack_hitbox (evil)_39: -5365088045498015309
+      Necromancer_attack_hitbox (evil)_4: 6356203597550212146
+      Necromancer_attack_hitbox (evil)_40: 2587150784948479776
+      Necromancer_attack_hitbox (evil)_41: -1922093526428921366
+      Necromancer_attack_hitbox (evil)_42: 8180831752089917365
+      Necromancer_attack_hitbox (evil)_43: 6663774574454699304
+      Necromancer_attack_hitbox (evil)_5: 1554738088539525790
+      Necromancer_attack_hitbox (evil)_6: -8283437269241718528
+      Necromancer_attack_hitbox (evil)_7: -8308302256477763332
+      Necromancer_attack_hitbox (evil)_8: 6421066541105371016
+      Necromancer_attack_hitbox (evil)_9: -4642893070861976754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

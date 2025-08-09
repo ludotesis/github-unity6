@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: c3e03a4f0abdb004ba37720d85d075a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1902427297860769291
+    second: Bandit_attack_hitbox_0
+  - first:
+      213: 8747214840810835151
+    second: Bandit_attack_hitbox_1
+  - first:
+      213: -7999955940531468861
+    second: Bandit_attack_hitbox_2
+  - first:
+      213: -4506807873277826732
+    second: Bandit_attack_hitbox_3
+  - first:
+      213: -7885403718797014308
+    second: Bandit_attack_hitbox_4
+  - first:
+      213: -4483618161745066379
+    second: Bandit_attack_hitbox_5
+  - first:
+      213: 2542334924208325460
+    second: Bandit_attack_hitbox_6
+  - first:
+      213: -6928497566205000292
+    second: Bandit_attack_hitbox_7
+  - first:
+      213: -8038008165474631438
+    second: Bandit_attack_hitbox_8
+  - first:
+      213: 2727323441725500313
+    second: Bandit_attack_hitbox_9
+  - first:
+      213: 7815185983826543321
+    second: Bandit_attack_hitbox_10
+  - first:
+      213: 786235964884642698
+    second: Bandit_attack_hitbox_11
+  - first:
+      213: 4859446929908192590
+    second: Bandit_attack_hitbox_12
+  - first:
+      213: 8342423163751963031
+    second: Bandit_attack_hitbox_13
+  - first:
+      213: -8283043109821776100
+    second: Bandit_attack_hitbox_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 545
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9a00cb3783995e0800000000000000
+      internalID: -1902427297860769291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 554
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc0e809d89546970800000000000000
+      internalID: 8747214840810835151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 560
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c588d925727af090800000000000000
+      internalID: -7999955940531468861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 566
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459675a0e1a9471c0800000000000000
+      internalID: -4506807873277826732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 401
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda4f8ea81b619290800000000000000
+      internalID: -7885403718797014308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 398
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57602b0890df6c1c0800000000000000
+      internalID: -4483618161745066379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 401
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453c189c420384320800000000000000
+      internalID: 2542334924208325460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 401
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95413b1c2809df90800000000000000
+      internalID: -6928497566205000292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 233
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f002332922437090800000000000000
+      internalID: -8038008165474631438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 230
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99be4a3683669d520800000000000000
+      internalID: 2727323441725500313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 233
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2c793ee3e157c60800000000000000
+      internalID: 7815185983826543321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 233
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8be594c17549ea00800000000000000
+      internalID: 786235964884642698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e455a0e7c39307340800000000000000
+      internalID: 4859446929908192590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 68
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7991d69daad36c370800000000000000
+      internalID: 8342423163751963031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit_attack_hitbox_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f73d35d28bc0d80800000000000000
+      internalID: -8283043109821776100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bandit_attack_hitbox_0: -1902427297860769291
+      Bandit_attack_hitbox_1: 8747214840810835151
+      Bandit_attack_hitbox_10: 7815185983826543321
+      Bandit_attack_hitbox_11: 786235964884642698
+      Bandit_attack_hitbox_12: 4859446929908192590
+      Bandit_attack_hitbox_13: 8342423163751963031
+      Bandit_attack_hitbox_14: -8283043109821776100
+      Bandit_attack_hitbox_2: -7999955940531468861
+      Bandit_attack_hitbox_3: -4506807873277826732
+      Bandit_attack_hitbox_4: -7885403718797014308
+      Bandit_attack_hitbox_5: -4483618161745066379
+      Bandit_attack_hitbox_6: 2542334924208325460
+      Bandit_attack_hitbox_7: -6928497566205000292
+      Bandit_attack_hitbox_8: -8038008165474631438
+      Bandit_attack_hitbox_9: 2727323441725500313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

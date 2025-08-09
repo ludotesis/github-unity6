@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: d9ad441227e414341a1693525bfa2d9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8445277716964963599
+    second: Witch_attack_hitbox_0
+  - first:
+      213: 4965905661204016701
+    second: Witch_attack_hitbox_1
+  - first:
+      213: -7520185228640694194
+    second: Witch_attack_hitbox_2
+  - first:
+      213: 431486119579058646
+    second: Witch_attack_hitbox_3
+  - first:
+      213: 4492731242432819658
+    second: Witch_attack_hitbox_4
+  - first:
+      213: 8938116351861643982
+    second: Witch_attack_hitbox_5
+  - first:
+      213: -3868221713767243607
+    second: Witch_attack_hitbox_6
+  - first:
+      213: 8650907865402054390
+    second: Witch_attack_hitbox_7
+  - first:
+      213: 8272668552833126478
+    second: Witch_attack_hitbox_8
+  - first:
+      213: 6264321401129209919
+    second: Witch_attack_hitbox_9
+  - first:
+      213: -8894703077283619905
+    second: Witch_attack_hitbox_10
+  - first:
+      213: -1826018601371005483
+    second: Witch_attack_hitbox_11
+  - first:
+      213: 8068213177948014753
+    second: Witch_attack_hitbox_12
+  - first:
+      213: -1050384094037016565
+    second: Witch_attack_hitbox_13
+  - first:
+      213: -2514700206565257051
+    second: Witch_attack_hitbox_14
+  - first:
+      213: 4863733998265685387
+    second: Witch_attack_hitbox_15
+  - first:
+      213: -7226677713501971422
+    second: Witch_attack_hitbox_16
+  - first:
+      213: 5931766616338146713
+    second: Witch_attack_hitbox_17
+  - first:
+      213: -1437282547688051125
+    second: Witch_attack_hitbox_18
+  - first:
+      213: 1307340570597592129
+    second: Witch_attack_hitbox_19
+  - first:
+      213: -2587358881354750578
+    second: Witch_attack_hitbox_20
+  - first:
+      213: -1127496551401162076
+    second: Witch_attack_hitbox_21
+  - first:
+      213: -8280998819281662002
+    second: Witch_attack_hitbox_22
+  - first:
+      213: 7970578295055532970
+    second: Witch_attack_hitbox_23
+  - first:
+      213: 1611236964612177317
+    second: Witch_attack_hitbox_24
+  - first:
+      213: -257972419321296974
+    second: Witch_attack_hitbox_25
+  - first:
+      213: -2955783623313171168
+    second: Witch_attack_hitbox_26
+  - first:
+      213: 2306613157263617180
+    second: Witch_attack_hitbox_27
+  - first:
+      213: 7806856030289606550
+    second: Witch_attack_hitbox_28
+  - first:
+      213: 6211594851984445236
+    second: Witch_attack_hitbox_29
+  - first:
+      213: 8130864831454214122
+    second: Witch_attack_hitbox_30
+  - first:
+      213: 8562199886186621429
+    second: Witch_attack_hitbox_31
+  - first:
+      213: -4603091405734272578
+    second: Witch_attack_hitbox_32
+  - first:
+      213: 1905295821963413848
+    second: Witch_attack_hitbox_33
+  - first:
+      213: 4771619411238296334
+    second: Witch_attack_hitbox_34
+  - first:
+      213: 4096120555190104332
+    second: Witch_attack_hitbox_35
+  - first:
+      213: 1566899661696176013
+    second: Witch_attack_hitbox_36
+  - first:
+      213: -3871459326975874859
+    second: Witch_attack_hitbox_37
+  - first:
+      213: 3146137585499001681
+    second: Witch_attack_hitbox_38
+  - first:
+      213: 6900198871727148114
+    second: Witch_attack_hitbox_39
+  - first:
+      213: 3242938836512910635
+    second: Witch_attack_hitbox_40
+  - first:
+      213: 7187871512416758544
+    second: Witch_attack_hitbox_41
+  - first:
+      213: 6838046581511239267
+    second: Witch_attack_hitbox_42
+  - first:
+      213: -3090789887136378961
+    second: Witch_attack_hitbox_43
+  - first:
+      213: -1891405721932344808
+    second: Witch_attack_hitbox_44
+  - first:
+      213: -1967194053432475326
+    second: Witch_attack_hitbox_45
+  - first:
+      213: 4653105494062446245
+    second: Witch_attack_hitbox_46
+  - first:
+      213: 3407389004396022233
+    second: Witch_attack_hitbox_47
+  - first:
+      213: 6384517419289383302
+    second: Witch_attack_hitbox_48
+  - first:
+      213: 8851982913848661494
+    second: Witch_attack_hitbox_49
+  - first:
+      213: 7306170200457130640
+    second: Witch_attack_hitbox_50
+  - first:
+      213: 5479610226349911957
+    second: Witch_attack_hitbox_51
+  - first:
+      213: -538716149798569298
+    second: Witch_attack_hitbox_52
+  - first:
+      213: 6192511960576719343
+    second: Witch_attack_hitbox_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 617
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05f73da657a33570800000000000000
+      internalID: 8445277716964963599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 626
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eaa2c63e07ae440800000000000000
+      internalID: 4965905661204016701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 617
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e405bb1d06fe2a790800000000000000
+      internalID: -7520185228640694194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 587
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d18503f652fcf500800000000000000
+      internalID: 431486119579058646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 587
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f180f243695e30800000000000000
+      internalID: 4492731242432819658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 560
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad2d147719a0c70800000000000000
+      internalID: 8938116351861643982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 557
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0637698d0515ac0800000000000000
+      internalID: -3868221713767243607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 578
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61ced7ed23e0870800000000000000
+      internalID: 8650907865402054390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 578
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40d924e73c6ec270800000000000000
+      internalID: 8272668552833126478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 554
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f301f21ef175fe650800000000000000
+      internalID: 6264321401129209919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_10
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 554
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb9fe76daaaf8480800000000000000
+      internalID: -8894703077283619905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 554
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd8608b1cda8a6e0800000000000000
+      internalID: -1826018601371005483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 449
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a887bb532d08ff60800000000000000
+      internalID: 8068213177948014753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 458
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00043d4b394c61f0800000000000000
+      internalID: -1050384094037016565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 449
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0931f4c7df91dd0800000000000000
+      internalID: -2514700206565257051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 422
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85dd906d447f7340800000000000000
+      internalID: 4863733998265685387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 413
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c9b7c78eea5bb90800000000000000
+      internalID: -7226677713501971422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 410
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9952b594f4ed15250800000000000000
+      internalID: 5931766616338146713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_18
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 413
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e6f2f432fbd0ce0800000000000000
+      internalID: -1437282547688051125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_19
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 437
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c0de6825b942210800000000000000
+      internalID: 1307340570597592129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 416
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85e56a4ecad71cd0800000000000000
+      internalID: -2587358881354750578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 419
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa71483cd35a50f0800000000000000
+      internalID: -1127496551401162076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_22
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 419
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf894fc27bf31d80800000000000000
+      internalID: -8280998819281662002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 413
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3493bbabe2d9e60800000000000000
+      internalID: 7970578295055532970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_24
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 422
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adffac8b734c5610800000000000000
+      internalID: 1611236964612177317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 281
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b78180937f7b6cf0800000000000000
+      internalID: -257972419321296974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d508b7472faf6d0800000000000000
+      internalID: -2955783623313171168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 281
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ca0f0127cb20020800000000000000
+      internalID: 2306613157263617180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 254
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69737027236875c60800000000000000
+      internalID: 7806856030289606550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 245
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f8d218b94043650800000000000000
+      internalID: 6211594851984445236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 242
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae77b8b2c72a6d070800000000000000
+      internalID: 8130864831454214122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_31
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 245
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f92b089e6b03d670800000000000000
+      internalID: 8562199886186621429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_32
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 269
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12e8431c88e10c0800000000000000
+      internalID: -4603091405734272578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 248
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8594a249478f07a10800000000000000
+      internalID: 1905295821963413848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 251
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b973ac292383240800000000000000
+      internalID: 4771619411238296334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_35
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 251
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01384951f758d830800000000000000
+      internalID: 4096120555190104332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_36
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 254
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f8416c0febeb510800000000000000
+      internalID: 1566899661696176013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_37
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 245
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8ea350140d54ac0800000000000000
+      internalID: -3871459326975874859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1535c2e077359ab20800000000000000
+      internalID: 3146137585499001681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 86
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c09d4a05e62cf50800000000000000
+      internalID: 6900198871727148114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 122
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2daba2a0bb310d20800000000000000
+      internalID: 3242938836512910635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 86
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b20ccbe0370c360800000000000000
+      internalID: 7187871512416758544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_42
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 113
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663d88e22f95ee50800000000000000
+      internalID: 6838046581511239267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 80
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafcddd29fe4b15d0800000000000000
+      internalID: -3090789887136378961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 137
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812d41a548060c5e0800000000000000
+      internalID: -1891405721932344808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 80
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24185e85e6f13b4e0800000000000000
+      internalID: -1967194053432475326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_46
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 86
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b20c2bc6239040800000000000000
+      internalID: 4653105494062446245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_47
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 140
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9c8921f3a794f20800000000000000
+      internalID: 3407389004396022233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_48
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 86
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681990724cc5a9850800000000000000
+      internalID: 6384517419289383302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_49
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5d6c17f8f88da70800000000000000
+      internalID: 8851982913848661494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_50
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 146
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092baca661bb46560800000000000000
+      internalID: 7306170200457130640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_51
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2f29f77c7b0c40800000000000000
+      internalID: 5479610226349911957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_52
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 95
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa7d7814881688f0800000000000000
+      internalID: -538716149798569298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Witch_attack_hitbox_53
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 155
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9788d91d830f550800000000000000
+      internalID: 6192511960576719343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Witch_attack_hitbox_0: 8445277716964963599
+      Witch_attack_hitbox_1: 4965905661204016701
+      Witch_attack_hitbox_10: -8894703077283619905
+      Witch_attack_hitbox_11: -1826018601371005483
+      Witch_attack_hitbox_12: 8068213177948014753
+      Witch_attack_hitbox_13: -1050384094037016565
+      Witch_attack_hitbox_14: -2514700206565257051
+      Witch_attack_hitbox_15: 4863733998265685387
+      Witch_attack_hitbox_16: -7226677713501971422
+      Witch_attack_hitbox_17: 5931766616338146713
+      Witch_attack_hitbox_18: -1437282547688051125
+      Witch_attack_hitbox_19: 1307340570597592129
+      Witch_attack_hitbox_2: -7520185228640694194
+      Witch_attack_hitbox_20: -2587358881354750578
+      Witch_attack_hitbox_21: -1127496551401162076
+      Witch_attack_hitbox_22: -8280998819281662002
+      Witch_attack_hitbox_23: 7970578295055532970
+      Witch_attack_hitbox_24: 1611236964612177317
+      Witch_attack_hitbox_25: -257972419321296974
+      Witch_attack_hitbox_26: -2955783623313171168
+      Witch_attack_hitbox_27: 2306613157263617180
+      Witch_attack_hitbox_28: 7806856030289606550
+      Witch_attack_hitbox_29: 6211594851984445236
+      Witch_attack_hitbox_3: 431486119579058646
+      Witch_attack_hitbox_30: 8130864831454214122
+      Witch_attack_hitbox_31: 8562199886186621429
+      Witch_attack_hitbox_32: -4603091405734272578
+      Witch_attack_hitbox_33: 1905295821963413848
+      Witch_attack_hitbox_34: 4771619411238296334
+      Witch_attack_hitbox_35: 4096120555190104332
+      Witch_attack_hitbox_36: 1566899661696176013
+      Witch_attack_hitbox_37: -3871459326975874859
+      Witch_attack_hitbox_38: 3146137585499001681
+      Witch_attack_hitbox_39: 6900198871727148114
+      Witch_attack_hitbox_4: 4492731242432819658
+      Witch_attack_hitbox_40: 3242938836512910635
+      Witch_attack_hitbox_41: 7187871512416758544
+      Witch_attack_hitbox_42: 6838046581511239267
+      Witch_attack_hitbox_43: -3090789887136378961
+      Witch_attack_hitbox_44: -1891405721932344808
+      Witch_attack_hitbox_45: -1967194053432475326
+      Witch_attack_hitbox_46: 4653105494062446245
+      Witch_attack_hitbox_47: 3407389004396022233
+      Witch_attack_hitbox_48: 6384517419289383302
+      Witch_attack_hitbox_49: 8851982913848661494
+      Witch_attack_hitbox_5: 8938116351861643982
+      Witch_attack_hitbox_50: 7306170200457130640
+      Witch_attack_hitbox_51: 5479610226349911957
+      Witch_attack_hitbox_52: -538716149798569298
+      Witch_attack_hitbox_53: 6192511960576719343
+      Witch_attack_hitbox_6: -3868221713767243607
+      Witch_attack_hitbox_7: 8650907865402054390
+      Witch_attack_hitbox_8: 8272668552833126478
+      Witch_attack_hitbox_9: 6264321401129209919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

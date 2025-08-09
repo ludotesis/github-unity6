@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 2ba0cd27dfbb7d841bcf5e4d9be135f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -831764118748259566
+    second: Horse_rider_idle (96x96)_0
+  - first:
+      213: 8754991154532663345
+    second: Horse_rider_idle (96x96)_1
+  - first:
+      213: -6353525347675245842
+    second: Horse_rider_idle (96x96)_2
+  - first:
+      213: 735404744935126973
+    second: Horse_rider_idle (96x96)_3
+  - first:
+      213: -692127027615320098
+    second: Horse_rider_idle (96x96)_4
+  - first:
+      213: 2341963017761748383
+    second: Horse_rider_idle (96x96)_5
+  - first:
+      213: -7900997692617889162
+    second: Horse_rider_idle (96x96)_6
+  - first:
+      213: -1032552652688035454
+    second: Horse_rider_idle (96x96)_7
+  - first:
+      213: -4761683182058590577
+    second: Horse_rider_idle (96x96)_8
+  - first:
+      213: -6929996353014313034
+    second: Horse_rider_idle (96x96)_9
+  - first:
+      213: 5813929257445026836
+    second: Horse_rider_idle (96x96)_10
+  - first:
+      213: 34873733161826970
+    second: Horse_rider_idle (96x96)_11
+  - first:
+      213: 6071008766686700533
+    second: Horse_rider_idle (96x96)_12
+  - first:
+      213: -1782798673713458316
+    second: Horse_rider_idle (96x96)_13
+  - first:
+      213: 9111350261352928053
+    second: Horse_rider_idle (96x96)_14
+  - first:
+      213: 5571305449154525092
+    second: Horse_rider_idle (96x96)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 287
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b181dd0faf474f0800000000000000
+      internalID: -831764118748259566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1304b91b11aff7970800000000000000
+      internalID: 8754991154532663345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 287
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee27064db5eb3d7a0800000000000000
+      internalID: -6353525347675245842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 287
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7befb18bea43a00800000000000000
+      internalID: 735404744935126973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ba8ba2221566f0800000000000000
+      internalID: -692127027615320098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f957ac6d4f2508020800000000000000
+      internalID: 2341963017761748383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a6458b5740a5290800000000000000
+      internalID: -7900997692617889162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 191
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28174a445d2aba1f0800000000000000
+      internalID: -1032552652688035454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e2278df5a1bedb0800000000000000
+      internalID: -4761683182058590577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf44db9805b3df90800000000000000
+      internalID: -6929996353014313034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ce24b2bd93fa050800000000000000
+      internalID: 5813929257445026836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 95
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3a1db975eb7000800000000000000
+      internalID: 34873733161826970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3a4a6ce4e804450800000000000000
+      internalID: 6071008766686700533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473954b4d0a3247e0800000000000000
+      internalID: -1782798673713458316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5339a18e9c4027e70800000000000000
+      internalID: 9111350261352928053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_idle (96x96)_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7bd08b9c0415d40800000000000000
+      internalID: 5571305449154525092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Horse_rider_idle (96x96)_0: -831764118748259566
+      Horse_rider_idle (96x96)_1: 8754991154532663345
+      Horse_rider_idle (96x96)_10: 5813929257445026836
+      Horse_rider_idle (96x96)_11: 34873733161826970
+      Horse_rider_idle (96x96)_12: 6071008766686700533
+      Horse_rider_idle (96x96)_13: -1782798673713458316
+      Horse_rider_idle (96x96)_14: 9111350261352928053
+      Horse_rider_idle (96x96)_15: 5571305449154525092
+      Horse_rider_idle (96x96)_2: -6353525347675245842
+      Horse_rider_idle (96x96)_3: 735404744935126973
+      Horse_rider_idle (96x96)_4: -692127027615320098
+      Horse_rider_idle (96x96)_5: 2341963017761748383
+      Horse_rider_idle (96x96)_6: -7900997692617889162
+      Horse_rider_idle (96x96)_7: -1032552652688035454
+      Horse_rider_idle (96x96)_8: -4761683182058590577
+      Horse_rider_idle (96x96)_9: -6929996353014313034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

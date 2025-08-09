@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 1f4282b456401744299961d46b23780a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1591531351659895152
+    second: Yeti_attack_NOhitbox_0
+  - first:
+      213: 343975195750007199
+    second: Yeti_attack_NOhitbox_1
+  - first:
+      213: -3484125479063850954
+    second: Yeti_attack_NOhitbox_2
+  - first:
+      213: -5094994744993642655
+    second: Yeti_attack_NOhitbox_3
+  - first:
+      213: -519856049657923596
+    second: Yeti_attack_NOhitbox_4
+  - first:
+      213: -387930944870928637
+    second: Yeti_attack_NOhitbox_5
+  - first:
+      213: -2431107486586912311
+    second: Yeti_attack_NOhitbox_6
+  - first:
+      213: 8393974465835745999
+    second: Yeti_attack_NOhitbox_7
+  - first:
+      213: -200407085474651444
+    second: Yeti_attack_NOhitbox_8
+  - first:
+      213: 7769851408787377140
+    second: Yeti_attack_NOhitbox_9
+  - first:
+      213: 6717338669954626993
+    second: Yeti_attack_NOhitbox_10
+  - first:
+      213: 4566955119607922963
+    second: Yeti_attack_NOhitbox_11
+  - first:
+      213: -518900888041391839
+    second: Yeti_attack_NOhitbox_12
+  - first:
+      213: -8462766796776889544
+    second: Yeti_attack_NOhitbox_13
+  - first:
+      213: -6104502689127210030
+    second: Yeti_attack_NOhitbox_14
+  - first:
+      213: -8430066107235025212
+    second: Yeti_attack_NOhitbox_15
+  - first:
+      213: -4434243837314165166
+    second: Yeti_attack_NOhitbox_16
+  - first:
+      213: 7940983452106267341
+    second: Yeti_attack_NOhitbox_17
+  - first:
+      213: 7419937223931736150
+    second: Yeti_attack_NOhitbox_18
+  - first:
+      213: 568206342264606518
+    second: Yeti_attack_NOhitbox_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 623
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0962a6ffaaeb9e9e0800000000000000
+      internalID: -1591531351659895152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 620
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91893a3e9b06c400800000000000000
+      internalID: 343975195750007199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 620
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630f2832656e5afc0800000000000000
+      internalID: -3484125479063850954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 620
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1670c2c1641fa49b0800000000000000
+      internalID: -5094994744993642655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 620
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73dc95da919c8f0800000000000000
+      internalID: -519856049657923596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 431
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f26996cdacd9af0800000000000000
+      internalID: -387930944870928637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 431
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c13b1f98f24ed0800000000000000
+      internalID: -2431107486586912311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 431
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2c6d1bd436d7470800000000000000
+      internalID: 8393974465835745999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 431
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2efcb41d2083df0800000000000000
+      internalID: -200407085474651444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_9
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 431
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb075a90be04db60800000000000000
+      internalID: 7769851408787377140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 239
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5f3aa2ee7c83d50800000000000000
+      internalID: 6717338669954626993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 239
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c1690c75116f30800000000000000
+      internalID: 4566955119607922963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 239
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12978ae346e7cc8f0800000000000000
+      internalID: -518900888041391839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 239
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833a42d9f663e8a80800000000000000
+      internalID: -8462766796776889544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_14
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 239
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e724b523784ba0800000000000000
+      internalID: -6104502689127210030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce32353a83620b80800000000000000
+      internalID: -8430066107235025212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569c6d39b66672c0800000000000000
+      internalID: -4434243837314165166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 47
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca9c06606a043e60800000000000000
+      internalID: 7940983452106267341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 47
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6503628b799e8f660800000000000000
+      internalID: 7419937223931736150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_NOhitbox_19
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 47
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f4ec568aca2e700800000000000000
+      internalID: 568206342264606518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yeti_attack_NOhitbox_0: -1591531351659895152
+      Yeti_attack_NOhitbox_1: 343975195750007199
+      Yeti_attack_NOhitbox_10: 6717338669954626993
+      Yeti_attack_NOhitbox_11: 4566955119607922963
+      Yeti_attack_NOhitbox_12: -518900888041391839
+      Yeti_attack_NOhitbox_13: -8462766796776889544
+      Yeti_attack_NOhitbox_14: -6104502689127210030
+      Yeti_attack_NOhitbox_15: -8430066107235025212
+      Yeti_attack_NOhitbox_16: -4434243837314165166
+      Yeti_attack_NOhitbox_17: 7940983452106267341
+      Yeti_attack_NOhitbox_18: 7419937223931736150
+      Yeti_attack_NOhitbox_19: 568206342264606518
+      Yeti_attack_NOhitbox_2: -3484125479063850954
+      Yeti_attack_NOhitbox_3: -5094994744993642655
+      Yeti_attack_NOhitbox_4: -519856049657923596
+      Yeti_attack_NOhitbox_5: -387930944870928637
+      Yeti_attack_NOhitbox_6: -2431107486586912311
+      Yeti_attack_NOhitbox_7: 8393974465835745999
+      Yeti_attack_NOhitbox_8: -200407085474651444
+      Yeti_attack_NOhitbox_9: 7769851408787377140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

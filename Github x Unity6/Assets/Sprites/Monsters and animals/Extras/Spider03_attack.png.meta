@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: d50543f7da08683498828b4e126ebdde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7769177066135451765
+    second: Spider03_attack_0
+  - first:
+      213: -4285829512797982775
+    second: Spider03_attack_1
+  - first:
+      213: -4223696273931552673
+    second: Spider03_attack_2
+  - first:
+      213: 8623437348214426316
+    second: Spider03_attack_3
+  - first:
+      213: -6581553375799569801
+    second: Spider03_attack_4
+  - first:
+      213: 4411975541390694467
+    second: Spider03_attack_5
+  - first:
+      213: 5011026296142541637
+    second: Spider03_attack_6
+  - first:
+      213: -1877651717272042633
+    second: Spider03_attack_7
+  - first:
+      213: 5099524203708619394
+    second: Spider03_attack_8
+  - first:
+      213: 5040596583247655471
+    second: Spider03_attack_9
+  - first:
+      213: -2830346550611364138
+    second: Spider03_attack_10
+  - first:
+      213: 6017068334586772685
+    second: Spider03_attack_11
+  - first:
+      213: 4694968836067806814
+    second: Spider03_attack_12
+  - first:
+      213: 6422344036750207141
+    second: Spider03_attack_13
+  - first:
+      213: 4434330185241894179
+    second: Spider03_attack_14
+  - first:
+      213: 2910228194675231678
+    second: Spider03_attack_15
+  - first:
+      213: -7741461540832967131
+    second: Spider03_attack_16
+  - first:
+      213: -7108886300277885131
+    second: Spider03_attack_17
+  - first:
+      213: 3790694048778140206
+    second: Spider03_attack_18
+  - first:
+      213: -9151631112063619243
+    second: Spider03_attack_19
+  - first:
+      213: 4193277849087321169
+    second: Spider03_attack_20
+  - first:
+      213: 5899499765669382346
+    second: Spider03_attack_21
+  - first:
+      213: 6045872330588419583
+    second: Spider03_attack_22
+  - first:
+      213: 4783833577197460570
+    second: Spider03_attack_23
+  - first:
+      213: -4932527156868952933
+    second: Spider03_attack_24
+  - first:
+      213: 1646858002942255617
+    second: Spider03_attack_25
+  - first:
+      213: 3421972603695067848
+    second: Spider03_attack_26
+  - first:
+      213: -3921200335569396641
+    second: Spider03_attack_27
+  - first:
+      213: -1061054531117236042
+    second: Spider03_attack_28
+  - first:
+      213: 5510059601415923446
+    second: Spider03_attack_29
+  - first:
+      213: -7599030157619984208
+    second: Spider03_attack_30
+  - first:
+      213: -4254255004868661233
+    second: Spider03_attack_31
+  - first:
+      213: -2888978089703388653
+    second: Spider03_attack_32
+  - first:
+      213: -8403456561342115207
+    second: Spider03_attack_33
+  - first:
+      213: -5522312232907597456
+    second: Spider03_attack_34
+  - first:
+      213: 4755065426500073736
+    second: Spider03_attack_35
+  - first:
+      213: -6604184391539247469
+    second: Spider03_attack_36
+  - first:
+      213: 3539711139953544055
+    second: Spider03_attack_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider03_attack_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 575
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5787d18f069a1db60800000000000000
+      internalID: 7769177066135451765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 548
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf6ac1f3cca584c0800000000000000
+      internalID: -4285829512797982775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 569
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f583b21fd9a6265c0800000000000000
+      internalID: -4223696273931552673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 569
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca482b449a9ca770800000000000000
+      internalID: 8623437348214426316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 569
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77291354310a9a4a0800000000000000
+      internalID: -6581553375799569801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 530
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348dd46116c7a3d30800000000000000
+      internalID: 4411975541390694467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 527
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543b7b5edddba8540800000000000000
+      internalID: 5011026296142541637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 527
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773091c16bd31f5e0800000000000000
+      internalID: -1877651717272042633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 545
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a1f8dae3625c640800000000000000
+      internalID: 5099524203708619394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_9
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 545
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f223680e2ebc3f540800000000000000
+      internalID: 5040596583247655471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 395
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6be8bdec698b8d0800000000000000
+      internalID: -2830346550611364138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 428
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccbb4045cbe08350800000000000000
+      internalID: 6017068334586772685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 455
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ec9590841e72140800000000000000
+      internalID: 4694968836067806814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 407
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a828d7dfdfb02950800000000000000
+      internalID: 6422344036750207141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 404
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d92243fc7e98d30800000000000000
+      internalID: 4434330185241894179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 392
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb81febf15336820800000000000000
+      internalID: 2910228194675231678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 407
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268d40aebdc09490800000000000000
+      internalID: -7741461540832967131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_17
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 407
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537bb4b0399285d90800000000000000
+      internalID: -7108886300277885131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_18
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 389
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abb9547204b9430800000000000000
+      internalID: 3790694048778140206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 227
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fe802bdffdef080800000000000000
+      internalID: -9151631112063619243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 260
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1542d5f9cf3813a30800000000000000
+      internalID: 4193277849087321169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_21
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 287
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8493da7cb3fd150800000000000000
+      internalID: 5899499765669382346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 239
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5f51e2ad047e350800000000000000
+      internalID: 6045872330588419583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 236
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cd079ea47936240800000000000000
+      internalID: 4783833577197460570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 239
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ccbd93fa42c8bb0800000000000000
+      internalID: -4932527156868952933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 224
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e1e4d0a0dad610800000000000000
+      internalID: 1646858002942255617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_26
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 239
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2fc52e3f94d7f20800000000000000
+      internalID: 3421972603695067848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_27
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 221
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c5e39f1191599c0800000000000000
+      internalID: -3921200335569396641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 131
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0407196806641f0800000000000000
+      internalID: -1061054531117236042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_29
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 140
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f660a1930aa77c40800000000000000
+      internalID: 5510059601415923446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_30
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 140
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b884914552da8690800000000000000
+      internalID: -7599030157619984208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_31
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 137
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0030e2fc99d5f4c0800000000000000
+      internalID: -4254255004868661233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_32
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 137
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ac75fdbb948e7d0800000000000000
+      internalID: -2888978089703388653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97217c7e7cce06b80800000000000000
+      internalID: -8403456561342115207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0799fba584ecc53b0800000000000000
+      internalID: -5522312232907597456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 71
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809374edfc26df140800000000000000
+      internalID: 4755065426500073736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 71
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396bf1f49493954a0800000000000000
+      internalID: -6604184391539247469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider03_attack_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 71
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b8c6017849f1130800000000000000
+      internalID: 3539711139953544055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider03_attack_0: 7769177066135451765
+      Spider03_attack_1: -4285829512797982775
+      Spider03_attack_10: -2830346550611364138
+      Spider03_attack_11: 6017068334586772685
+      Spider03_attack_12: 4694968836067806814
+      Spider03_attack_13: 6422344036750207141
+      Spider03_attack_14: 4434330185241894179
+      Spider03_attack_15: 2910228194675231678
+      Spider03_attack_16: -7741461540832967131
+      Spider03_attack_17: -7108886300277885131
+      Spider03_attack_18: 3790694048778140206
+      Spider03_attack_19: -9151631112063619243
+      Spider03_attack_2: -4223696273931552673
+      Spider03_attack_20: 4193277849087321169
+      Spider03_attack_21: 5899499765669382346
+      Spider03_attack_22: 6045872330588419583
+      Spider03_attack_23: 4783833577197460570
+      Spider03_attack_24: -4932527156868952933
+      Spider03_attack_25: 1646858002942255617
+      Spider03_attack_26: 3421972603695067848
+      Spider03_attack_27: -3921200335569396641
+      Spider03_attack_28: -1061054531117236042
+      Spider03_attack_29: 5510059601415923446
+      Spider03_attack_3: 8623437348214426316
+      Spider03_attack_30: -7599030157619984208
+      Spider03_attack_31: -4254255004868661233
+      Spider03_attack_32: -2888978089703388653
+      Spider03_attack_33: -8403456561342115207
+      Spider03_attack_34: -5522312232907597456
+      Spider03_attack_35: 4755065426500073736
+      Spider03_attack_36: -6604184391539247469
+      Spider03_attack_37: 3539711139953544055
+      Spider03_attack_4: -6581553375799569801
+      Spider03_attack_5: 4411975541390694467
+      Spider03_attack_6: 5011026296142541637
+      Spider03_attack_7: -1877651717272042633
+      Spider03_attack_8: 5099524203708619394
+      Spider03_attack_9: 5040596583247655471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

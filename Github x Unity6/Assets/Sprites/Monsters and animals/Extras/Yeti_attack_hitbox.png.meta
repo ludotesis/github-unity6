@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: c421787880f4edd4c8c69a7bfa1cd23b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6762988222964768793
+    second: Yeti_attack_hitbox_0
+  - first:
+      213: 7145179384695782918
+    second: Yeti_attack_hitbox_1
+  - first:
+      213: -6811908797945522507
+    second: Yeti_attack_hitbox_2
+  - first:
+      213: 858359758730882825
+    second: Yeti_attack_hitbox_3
+  - first:
+      213: -7848090657219140776
+    second: Yeti_attack_hitbox_4
+  - first:
+      213: -6977125561327099874
+    second: Yeti_attack_hitbox_5
+  - first:
+      213: -8123535728364626988
+    second: Yeti_attack_hitbox_6
+  - first:
+      213: -9177091132995766651
+    second: Yeti_attack_hitbox_7
+  - first:
+      213: -7006454599559379303
+    second: Yeti_attack_hitbox_8
+  - first:
+      213: -2467095715367706512
+    second: Yeti_attack_hitbox_9
+  - first:
+      213: -5709958420749465282
+    second: Yeti_attack_hitbox_10
+  - first:
+      213: 2753863615712329323
+    second: Yeti_attack_hitbox_11
+  - first:
+      213: -5729798267824419648
+    second: Yeti_attack_hitbox_12
+  - first:
+      213: -6835925897929502630
+    second: Yeti_attack_hitbox_13
+  - first:
+      213: -2461029054772752608
+    second: Yeti_attack_hitbox_14
+  - first:
+      213: 7188679200273685956
+    second: Yeti_attack_hitbox_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 578
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efd8060b0a0522a0800000000000000
+      internalID: -6762988222964768793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 578
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e7c392bc6c82360800000000000000
+      internalID: 7145179384695782918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 605
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b659101a0d3771a0800000000000000
+      internalID: -6811908797945522507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 620
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fe4ac17a189eb00800000000000000
+      internalID: 858359758730882825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 446
+        width: 146
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8532463d02bf51390800000000000000
+      internalID: -7848090657219140776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 446
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10ecc3b4454c2f90800000000000000
+      internalID: -6977125561327099874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbd1ae9b47634f80800000000000000
+      internalID: -8123535728364626988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 446
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5867662ac3c64a080800000000000000
+      internalID: -9177091132995766651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 254
+        width: 146
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9968c5ad9a214ce90800000000000000
+      internalID: -7006454599559379303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 254
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070ae92a48d13cdd0800000000000000
+      internalID: -2467095715367706512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e394af8a11722c0b0800000000000000
+      internalID: -5709958420749465282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 254
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef76e2e50b73620800000000000000
+      internalID: 2753863615712329323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 29
+        width: 104
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc4dab45daab70b0800000000000000
+      internalID: -5729798267824419648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 104
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50d4073d99e121a0800000000000000
+      internalID: -6835925897929502630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 104
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fca502d1ba8ddd0800000000000000
+      internalID: -2461029054772752608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yeti_attack_hitbox_15
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd5d8835a153c360800000000000000
+      internalID: 7188679200273685956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yeti_attack_hitbox_0: -6762988222964768793
+      Yeti_attack_hitbox_1: 7145179384695782918
+      Yeti_attack_hitbox_10: -5709958420749465282
+      Yeti_attack_hitbox_11: 2753863615712329323
+      Yeti_attack_hitbox_12: -5729798267824419648
+      Yeti_attack_hitbox_13: -6835925897929502630
+      Yeti_attack_hitbox_14: -2461029054772752608
+      Yeti_attack_hitbox_15: 7188679200273685956
+      Yeti_attack_hitbox_2: -6811908797945522507
+      Yeti_attack_hitbox_3: 858359758730882825
+      Yeti_attack_hitbox_4: -7848090657219140776
+      Yeti_attack_hitbox_5: -6977125561327099874
+      Yeti_attack_hitbox_6: -8123535728364626988
+      Yeti_attack_hitbox_7: -9177091132995766651
+      Yeti_attack_hitbox_8: -7006454599559379303
+      Yeti_attack_hitbox_9: -2467095715367706512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 813bff260128b6c4e91e1962626b1acb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7032112953423456680
+    second: Horse_rider_walk (96x96)_0
+  - first:
+      213: -1027785050835924073
+    second: Horse_rider_walk (96x96)_1
+  - first:
+      213: -2373695522067066104
+    second: Horse_rider_walk (96x96)_2
+  - first:
+      213: -3701441680567092279
+    second: Horse_rider_walk (96x96)_3
+  - first:
+      213: 8125541027551498434
+    second: Horse_rider_walk (96x96)_4
+  - first:
+      213: 8325047869388258298
+    second: Horse_rider_walk (96x96)_5
+  - first:
+      213: -4014535740325716931
+    second: Horse_rider_walk (96x96)_6
+  - first:
+      213: 4087601065972166
+    second: Horse_rider_walk (96x96)_7
+  - first:
+      213: 8569905046762232458
+    second: Horse_rider_walk (96x96)_8
+  - first:
+      213: 3996165436231627634
+    second: Horse_rider_walk (96x96)_9
+  - first:
+      213: 2672690709845549138
+    second: Horse_rider_walk (96x96)_10
+  - first:
+      213: 1862053627565927204
+    second: Horse_rider_walk (96x96)_11
+  - first:
+      213: -8075394392316315640
+    second: Horse_rider_walk (96x96)_12
+  - first:
+      213: -405828849303609183
+    second: Horse_rider_walk (96x96)_13
+  - first:
+      213: 5805614818506996462
+    second: Horse_rider_walk (96x96)_14
+  - first:
+      213: 8716320429931252839
+    second: Horse_rider_walk (96x96)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 287
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a96a313975179160800000000000000
+      internalID: 7032112953423456680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc77311f29cb1f0800000000000000
+      internalID: -1027785050835924073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 287
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803d142cf70fe0fd0800000000000000
+      internalID: -2373695522067066104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 287
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb39f01766d1acc0800000000000000
+      internalID: -3701441680567092279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0d11b7388b3c070800000000000000
+      internalID: 8125541027551498434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb7201ede2888370800000000000000
+      internalID: 8325047869388258298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c96cb93018948c0800000000000000
+      internalID: -4014535740325716931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 191
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c15589c6a58e0000800000000000000
+      internalID: 4087601065972166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a17171c3b6ee670800000000000000
+      internalID: 8569905046762232458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b74aaa4b357730800000000000000
+      internalID: 3996165436231627634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250a4d24a0e471520800000000000000
+      internalID: 2672690709845549138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 95
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6bcf98e757d910800000000000000
+      internalID: 1862053627565927204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808fdc0e59f6eef80800000000000000
+      internalID: -8075394392316315640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a027adcfc43e5af0800000000000000
+      internalID: -405828849303609183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea7adffaefa19050800000000000000
+      internalID: 5805614818506996462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_rider_walk (96x96)_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c488eff3796f870800000000000000
+      internalID: 8716320429931252839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Horse_rider_walk (96x96)_0: 7032112953423456680
+      Horse_rider_walk (96x96)_1: -1027785050835924073
+      Horse_rider_walk (96x96)_10: 2672690709845549138
+      Horse_rider_walk (96x96)_11: 1862053627565927204
+      Horse_rider_walk (96x96)_12: -8075394392316315640
+      Horse_rider_walk (96x96)_13: -405828849303609183
+      Horse_rider_walk (96x96)_14: 5805614818506996462
+      Horse_rider_walk (96x96)_15: 8716320429931252839
+      Horse_rider_walk (96x96)_2: -2373695522067066104
+      Horse_rider_walk (96x96)_3: -3701441680567092279
+      Horse_rider_walk (96x96)_4: 8125541027551498434
+      Horse_rider_walk (96x96)_5: 8325047869388258298
+      Horse_rider_walk (96x96)_6: -4014535740325716931
+      Horse_rider_walk (96x96)_7: 4087601065972166
+      Horse_rider_walk (96x96)_8: 8569905046762232458
+      Horse_rider_walk (96x96)_9: 3996165436231627634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

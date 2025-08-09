@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: 7ab8351623a0d68468983f1fb1392f5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9053730104560214336
+    second: Cultist01_attack_0
+  - first:
+      213: -4282010110996569258
+    second: Cultist01_attack_1
+  - first:
+      213: 787021638464229826
+    second: Cultist01_attack_2
+  - first:
+      213: -1975472063049910568
+    second: Cultist01_attack_3
+  - first:
+      213: -6199708225040708514
+    second: Cultist01_attack_4
+  - first:
+      213: -850815971775525240
+    second: Cultist01_attack_5
+  - first:
+      213: -7341991540270930011
+    second: Cultist01_attack_6
+  - first:
+      213: 8886975091770370144
+    second: Cultist01_attack_7
+  - first:
+      213: 7394804363226555624
+    second: Cultist01_attack_8
+  - first:
+      213: -1640770985969867370
+    second: Cultist01_attack_9
+  - first:
+      213: -790392324257648673
+    second: Cultist01_attack_10
+  - first:
+      213: -9185981524213211306
+    second: Cultist01_attack_11
+  - first:
+      213: -1042631855304465516
+    second: Cultist01_attack_12
+  - first:
+      213: -9174998809469518508
+    second: Cultist01_attack_13
+  - first:
+      213: -5066243787805640016
+    second: Cultist01_attack_14
+  - first:
+      213: -4616714799785096965
+    second: Cultist01_attack_15
+  - first:
+      213: 8407682924004636943
+    second: Cultist01_attack_16
+  - first:
+      213: 5458358576179762622
+    second: Cultist01_attack_17
+  - first:
+      213: 5322510161561920998
+    second: Cultist01_attack_18
+  - first:
+      213: 2763509304078974998
+    second: Cultist01_attack_19
+  - first:
+      213: -544240283133594602
+    second: Cultist01_attack_20
+  - first:
+      213: 8141361328451425396
+    second: Cultist01_attack_21
+  - first:
+      213: -5018908462597250203
+    second: Cultist01_attack_22
+  - first:
+      213: 1972855371677641960
+    second: Cultist01_attack_23
+  - first:
+      213: 2402661640092761322
+    second: Cultist01_attack_24
+  - first:
+      213: -8817934289389816098
+    second: Cultist01_attack_25
+  - first:
+      213: 8347189178881124012
+    second: Cultist01_attack_26
+  - first:
+      213: -1373318867989552416
+    second: Cultist01_attack_27
+  - first:
+      213: -1235078009917989174
+    second: Cultist01_attack_28
+  - first:
+      213: -8918077823360296572
+    second: Cultist01_attack_29
+  - first:
+      213: -7259984789653177346
+    second: Cultist01_attack_30
+  - first:
+      213: 5451345435401102437
+    second: Cultist01_attack_31
+  - first:
+      213: 1902296820111495443
+    second: Cultist01_attack_32
+  - first:
+      213: -4184545680993547053
+    second: Cultist01_attack_33
+  - first:
+      213: -7252257693647351972
+    second: Cultist01_attack_34
+  - first:
+      213: -2449237506483313769
+    second: Cultist01_attack_35
+  - first:
+      213: -2293108951104850903
+    second: Cultist01_attack_36
+  - first:
+      213: -245790329421786772
+    second: Cultist01_attack_37
+  - first:
+      213: -1807764572261915355
+    second: Cultist01_attack_38
+  - first:
+      213: -22307326195431210
+    second: Cultist01_attack_39
+  - first:
+      213: 1812751998681568533
+    second: Cultist01_attack_40
+  - first:
+      213: 3840628598880327052
+    second: Cultist01_attack_41
+  - first:
+      213: -4183555141599608277
+    second: Cultist01_attack_42
+  - first:
+      213: 8038277422090335625
+    second: Cultist01_attack_43
+  - first:
+      213: -3400294613703532680
+    second: Cultist01_attack_44
+  - first:
+      213: -8247885045101784701
+    second: Cultist01_attack_45
+  - first:
+      213: 9094094779215426526
+    second: Cultist01_attack_46
+  - first:
+      213: -8048500399524204442
+    second: Cultist01_attack_47
+  - first:
+      213: -2962527215047470110
+    second: Cultist01_attack_48
+  - first:
+      213: -707557139653682280
+    second: Cultist01_attack_49
+  - first:
+      213: -3177672965323039634
+    second: Cultist01_attack_50
+  - first:
+      213: 6186933254934933957
+    second: Cultist01_attack_51
+  - first:
+      213: -6073116155171591348
+    second: Cultist01_attack_52
+  - first:
+      213: -8462987998875468873
+    second: Cultist01_attack_53
+  - first:
+      213: 2472967208667330274
+    second: Cultist01_attack_54
+  - first:
+      213: 5279703909277977737
+    second: Cultist01_attack_55
+  - first:
+      213: 1706744667890494714
+    second: Cultist01_attack_56
+  - first:
+      213: 3515210833743357834
+    second: Cultist01_attack_57
+  - first:
+      213: 7798275379310890536
+    second: Cultist01_attack_58
+  - first:
+      213: 6872888585742250698
+    second: Cultist01_attack_59
+  - first:
+      213: 6058962620330166302
+    second: Cultist01_attack_60
+  - first:
+      213: 4447417390105846214
+    second: Cultist01_attack_61
+  - first:
+      213: -4344430922612911052
+    second: Cultist01_attack_62
+  - first:
+      213: -7380333057625261334
+    second: Cultist01_attack_63
+  - first:
+      213: 5565727319917046796
+    second: Cultist01_attack_64
+  - first:
+      213: 5537118241878109068
+    second: Cultist01_attack_65
+  - first:
+      213: -7993792092055870333
+    second: Cultist01_attack_66
+  - first:
+      213: 8662223312182693798
+    second: Cultist01_attack_67
+  - first:
+      213: -5910746781543352762
+    second: Cultist01_attack_68
+  - first:
+      213: -8494591861822915210
+    second: Cultist01_attack_69
+  - first:
+      213: 5817530346033840985
+    second: Cultist01_attack_70
+  - first:
+      213: 8003724846988234368
+    second: Cultist01_attack_71
+  - first:
+      213: 326402037145114610
+    second: Cultist01_attack_72
+  - first:
+      213: -6738331848235444879
+    second: Cultist01_attack_73
+  - first:
+      213: 8219084105476685697
+    second: Cultist01_attack_74
+  - first:
+      213: -6467713063467140033
+    second: Cultist01_attack_75
+  - first:
+      213: 843468387323179785
+    second: Cultist01_attack_76
+  - first:
+      213: -7629445902431998626
+    second: Cultist01_attack_77
+  - first:
+      213: 8008368149961506899
+    second: Cultist01_attack_78
+  - first:
+      213: -1216609528247491073
+    second: Cultist01_attack_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cultist01_attack_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 614
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0416296bf8f45ad70800000000000000
+      internalID: 9053730104560214336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 629
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6532b69bd7e3394c0800000000000000
+      internalID: -4282010110996569258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 614
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1d437a2001cea00800000000000000
+      internalID: 787021638464229826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 575
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6b33a00a6b594e0800000000000000
+      internalID: -1975472063049910568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c816f773636f9a0800000000000000
+      internalID: -6199708225040708514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 575
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e4719a16b4134f0800000000000000
+      internalID: -850815971775525240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 575
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a76a3af7910c1a90800000000000000
+      internalID: -7341991540270930011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 575
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a7b0c2c0e45b70800000000000000
+      internalID: 8886975091770370144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 554
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4a0a5936f9f9660800000000000000
+      internalID: 7394804363226555624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 542
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695af7f3b7fca39e0800000000000000
+      internalID: -1640770985969867370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 554
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf6d676e56f705f0800000000000000
+      internalID: -790392324257648673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 545
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f58ff1976d48080800000000000000
+      internalID: -9185981524213211306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 545
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49322190ad3d781f0800000000000000
+      internalID: -1042631855304465516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_13
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 542
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dffeaa13bdba080800000000000000
+      internalID: -9174998809469518508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 542
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bab05afd1611b9b0800000000000000
+      internalID: -5066243787805640016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 536
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8458999522eefb0800000000000000
+      internalID: -4616714799785096965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 530
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09f965d2171ea470800000000000000
+      internalID: 8407682924004636943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_17
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 539
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d6e5943cffbb40800000000000000
+      internalID: 5458358576179762622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_18
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 539
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e52e45caca5dd940800000000000000
+      internalID: 5322510161561920998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 527
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6104d130215f95620800000000000000
+      internalID: 2763509304078974998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 458
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6143d5398587278f0800000000000000
+      internalID: -544240283133594602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 464
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47413725efcebf070800000000000000
+      internalID: 8141361328451425396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 452
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56360b63851495ab0800000000000000
+      internalID: -5018908462597250203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 407
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec2116028df06b10800000000000000
+      internalID: 1972855371677641960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 443
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecbf252808f75120800000000000000
+      internalID: 2402661640092761322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 407
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6fe24bb7760a580800000000000000
+      internalID: -8817934289389816098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 443
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a138355c27d370800000000000000
+      internalID: 8347189178881124012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 407
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2242604cdf0fce0800000000000000
+      internalID: -1373318867989552416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_28
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 443
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace11fcf71f1cdee0800000000000000
+      internalID: -1235078009917989174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 407
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489125b387f9c3480800000000000000
+      internalID: -8918077823360296572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 443
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbbbf18c4a5f3b90800000000000000
+      internalID: -7259984789653177346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 407
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564a7018ac117ab40800000000000000
+      internalID: 5451345435401102437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 419
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311d91c01e0566a10800000000000000
+      internalID: 1902296820111495443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 419
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0cf1bfd18de5c0800000000000000
+      internalID: -4184545680993547053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 419
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f4e8e3d0eca5b90800000000000000
+      internalID: -7252257693647351972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_35
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 422
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793af77e67f820ed0800000000000000
+      internalID: -2449237506483313769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 407
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9247022fe8d3d20e0800000000000000
+      internalID: -2293108951104850903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 407
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6196956ff6c69cf0800000000000000
+      internalID: -245790329421786772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_38
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 407
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525eac013b789e6e0800000000000000
+      internalID: -1807764572261915355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 407
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d88b32ea9fb0bff0800000000000000
+      internalID: -22307326195431210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 284
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5155b43a650382910800000000000000
+      internalID: 1812751998681568533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 296
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85d776bc57ac4530800000000000000
+      internalID: 3840628598880327052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_42
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 290
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2242be93c601f5c0800000000000000
+      internalID: -4183555141599608277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_43
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 239
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985bcbd0ab2bd8f60800000000000000
+      internalID: 8038277422090335625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 239
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd68a701abfc0d0800000000000000
+      internalID: -3400294613703532680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 275
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381937a2040a98d80800000000000000
+      internalID: -8247885045101784701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 239
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3bed4e407b43e70800000000000000
+      internalID: 9094094779215426526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 275
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66035c7878bfd4090800000000000000
+      internalID: -8048500399524204442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e31bada13df2e6d0800000000000000
+      internalID: -2962527215047470110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_49
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 275
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b96a0c7804e26f0800000000000000
+      internalID: -707557139653682280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_50
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 239
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cde892643a6e3d0800000000000000
+      internalID: -3177672965323039634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 275
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1b27df3076cd550800000000000000
+      internalID: 6186933254934933957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 251
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4baf4b9805f7bba0800000000000000
+      internalID: -6073116155171591348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_53
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 251
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb32acf04d6d8a80800000000000000
+      internalID: -8462987998875468873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_54
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 251
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e63ecde29eb15220800000000000000
+      internalID: 2472967208667330274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_55
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 254
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c41cf7bb6454940800000000000000
+      internalID: 5279703909277977737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_56
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 239
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afca7e39b339fa710800000000000000
+      internalID: 1706744667890494714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 239
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a0eff0a988c030800000000000000
+      internalID: 3515210833743357834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_58
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 239
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0084f32a093c60800000000000000
+      internalID: 7798275379310890536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 239
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f00e21c7616f50800000000000000
+      internalID: 6872888585742250698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_60
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 140
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e184624c662c51450800000000000000
+      internalID: 6058962620330166302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_61
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 149
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c167298d8668bd30800000000000000
+      internalID: 4447417390105846214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_62
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 155
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4345f6af71b75b3c0800000000000000
+      internalID: -4344430922612911052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea7c20df2ac39990800000000000000
+      internalID: -7380333057625261334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_64
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ca75c428f6d3d40800000000000000
+      internalID: 5565727319917046796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 134
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bea7e34bbc7dc40800000000000000
+      internalID: 5537118241878109068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_66
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 134
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384eea8f178501190800000000000000
+      internalID: -7993792092055870333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_67
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 137
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afc1cf3536663870800000000000000
+      internalID: 8662223312182693798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_68
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 137
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64633d06e1fc8fda0800000000000000
+      internalID: -5910746781543352762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_69
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dfe1c35b52d1a80800000000000000
+      internalID: -8494591861822915210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_70
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9530761f6050cb050800000000000000
+      internalID: 5817530346033840985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_71
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e83b0c751f21f60800000000000000
+      internalID: 8003724846988234368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_72
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f79ff56cec978400800000000000000
+      internalID: 326402037145114610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 113
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175993f92e2ac72a0800000000000000
+      internalID: -6738331848235444879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_74
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 119
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f3ff5827d001270800000000000000
+      internalID: 8219084105476685697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_75
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 119
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c33e67c311e36a0800000000000000
+      internalID: -6467713063467140033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 71
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9037ba5870a94bb00800000000000000
+      internalID: 843468387323179785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 71
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2b70df53ce1690800000000000000
+      internalID: -7629445902431998626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_78
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 71
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3500209f660732f60800000000000000
+      internalID: 8008368149961506899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cultist01_attack_79
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 71
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e376741cbd1fe0800000000000000
+      internalID: -1216609528247491073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cultist01_attack_0: 9053730104560214336
+      Cultist01_attack_1: -4282010110996569258
+      Cultist01_attack_10: -790392324257648673
+      Cultist01_attack_11: -9185981524213211306
+      Cultist01_attack_12: -1042631855304465516
+      Cultist01_attack_13: -9174998809469518508
+      Cultist01_attack_14: -5066243787805640016
+      Cultist01_attack_15: -4616714799785096965
+      Cultist01_attack_16: 8407682924004636943
+      Cultist01_attack_17: 5458358576179762622
+      Cultist01_attack_18: 5322510161561920998
+      Cultist01_attack_19: 2763509304078974998
+      Cultist01_attack_2: 787021638464229826
+      Cultist01_attack_20: -544240283133594602
+      Cultist01_attack_21: 8141361328451425396
+      Cultist01_attack_22: -5018908462597250203
+      Cultist01_attack_23: 1972855371677641960
+      Cultist01_attack_24: 2402661640092761322
+      Cultist01_attack_25: -8817934289389816098
+      Cultist01_attack_26: 8347189178881124012
+      Cultist01_attack_27: -1373318867989552416
+      Cultist01_attack_28: -1235078009917989174
+      Cultist01_attack_29: -8918077823360296572
+      Cultist01_attack_3: -1975472063049910568
+      Cultist01_attack_30: -7259984789653177346
+      Cultist01_attack_31: 5451345435401102437
+      Cultist01_attack_32: 1902296820111495443
+      Cultist01_attack_33: -4184545680993547053
+      Cultist01_attack_34: -7252257693647351972
+      Cultist01_attack_35: -2449237506483313769
+      Cultist01_attack_36: -2293108951104850903
+      Cultist01_attack_37: -245790329421786772
+      Cultist01_attack_38: -1807764572261915355
+      Cultist01_attack_39: -22307326195431210
+      Cultist01_attack_4: -6199708225040708514
+      Cultist01_attack_40: 1812751998681568533
+      Cultist01_attack_41: 3840628598880327052
+      Cultist01_attack_42: -4183555141599608277
+      Cultist01_attack_43: 8038277422090335625
+      Cultist01_attack_44: -3400294613703532680
+      Cultist01_attack_45: -8247885045101784701
+      Cultist01_attack_46: 9094094779215426526
+      Cultist01_attack_47: -8048500399524204442
+      Cultist01_attack_48: -2962527215047470110
+      Cultist01_attack_49: -707557139653682280
+      Cultist01_attack_5: -850815971775525240
+      Cultist01_attack_50: -3177672965323039634
+      Cultist01_attack_51: 6186933254934933957
+      Cultist01_attack_52: -6073116155171591348
+      Cultist01_attack_53: -8462987998875468873
+      Cultist01_attack_54: 2472967208667330274
+      Cultist01_attack_55: 5279703909277977737
+      Cultist01_attack_56: 1706744667890494714
+      Cultist01_attack_57: 3515210833743357834
+      Cultist01_attack_58: 7798275379310890536
+      Cultist01_attack_59: 6872888585742250698
+      Cultist01_attack_6: -7341991540270930011
+      Cultist01_attack_60: 6058962620330166302
+      Cultist01_attack_61: 4447417390105846214
+      Cultist01_attack_62: -4344430922612911052
+      Cultist01_attack_63: -7380333057625261334
+      Cultist01_attack_64: 5565727319917046796
+      Cultist01_attack_65: 5537118241878109068
+      Cultist01_attack_66: -7993792092055870333
+      Cultist01_attack_67: 8662223312182693798
+      Cultist01_attack_68: -5910746781543352762
+      Cultist01_attack_69: -8494591861822915210
+      Cultist01_attack_7: 8886975091770370144
+      Cultist01_attack_70: 5817530346033840985
+      Cultist01_attack_71: 8003724846988234368
+      Cultist01_attack_72: 326402037145114610
+      Cultist01_attack_73: -6738331848235444879
+      Cultist01_attack_74: 8219084105476685697
+      Cultist01_attack_75: -6467713063467140033
+      Cultist01_attack_76: 843468387323179785
+      Cultist01_attack_77: -7629445902431998626
+      Cultist01_attack_78: 8008368149961506899
+      Cultist01_attack_79: -1216609528247491073
+      Cultist01_attack_8: 7394804363226555624
+      Cultist01_attack_9: -1640770985969867370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e44cd7a543078d14abab7bb494657c8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4706779291338183236
+    second: Bandit03_attack_NOhitbox_0
+  - first:
+      213: 8169127850252763042
+    second: Bandit03_attack_NOhitbox_1
+  - first:
+      213: 3198807845016946381
+    second: Bandit03_attack_NOhitbox_2
+  - first:
+      213: -7580024001203435971
+    second: Bandit03_attack_NOhitbox_3
+  - first:
+      213: 4681574901428858525
+    second: Bandit03_attack_NOhitbox_4
+  - first:
+      213: -1123540334073846180
+    second: Bandit03_attack_NOhitbox_5
+  - first:
+      213: -3007313641623618086
+    second: Bandit03_attack_NOhitbox_6
+  - first:
+      213: -7711976837247577169
+    second: Bandit03_attack_NOhitbox_7
+  - first:
+      213: -2514799878865793555
+    second: Bandit03_attack_NOhitbox_8
+  - first:
+      213: -12685824041670580
+    second: Bandit03_attack_NOhitbox_9
+  - first:
+      213: -6620432607876669606
+    second: Bandit03_attack_NOhitbox_10
+  - first:
+      213: 6895578212569580424
+    second: Bandit03_attack_NOhitbox_11
+  - first:
+      213: -1764490976013610747
+    second: Bandit03_attack_NOhitbox_12
+  - first:
+      213: -2227363001154263118
+    second: Bandit03_attack_NOhitbox_13
+  - first:
+      213: -5931614194732901606
+    second: Bandit03_attack_NOhitbox_14
+  - first:
+      213: 5640543995413555520
+    second: Bandit03_attack_NOhitbox_15
+  - first:
+      213: -6444068610457074852
+    second: Bandit03_attack_NOhitbox_16
+  - first:
+      213: -137995302412217090
+    second: Bandit03_attack_NOhitbox_17
+  - first:
+      213: 7986699451155468200
+    second: Bandit03_attack_NOhitbox_18
+  - first:
+      213: -2485991180468881447
+    second: Bandit03_attack_NOhitbox_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 575
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd6f9f0c292eaeb0800000000000000
+      internalID: -4706779291338183236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 566
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aff0177f729e5170800000000000000
+      internalID: 8169127850252763042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 566
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6c7fa79c2746c20800000000000000
+      internalID: 3198807845016946381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 566
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d368553e4585ec690800000000000000
+      internalID: -7580024001203435971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_4
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 566
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e2d0d919b48f040800000000000000
+      internalID: 4681574901428858525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 407
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5664b8d4026860f0800000000000000
+      internalID: -1123540334073846180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 398
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add76d62d20e346d0800000000000000
+      internalID: -3007313641623618086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 398
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa351d32ded89f490800000000000000
+      internalID: -7711976837247577169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 398
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded420b85d2a91dd0800000000000000
+      internalID: -2514799878865793555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 398
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48205c6f4ee2dff0800000000000000
+      internalID: -12685824041670580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 239
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f1914ae9f7f14a0800000000000000
+      internalID: -6620432607876669606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 230
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883022999d302bf50800000000000000
+      internalID: 6895578212569580424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 230
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50193555ec44387e0800000000000000
+      internalID: -1764490976013610747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 230
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b72a5ac621d611e0800000000000000
+      internalID: -2227363001154263118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 230
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd742215caeada0800000000000000
+      internalID: -5931614194732901606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049669201ec374e40800000000000000
+      internalID: 5640543995413555520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 65
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53067dadb11296a0800000000000000
+      internalID: -6444068610457074852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 65
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef41c0be00eb51ef0800000000000000
+      internalID: -137995302412217090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 65
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afcde1e5d476de60800000000000000
+      internalID: 7986699451155468200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit03_attack_NOhitbox_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 65
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7f565513cff7dd0800000000000000
+      internalID: -2485991180468881447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bandit03_attack_NOhitbox_0: -4706779291338183236
+      Bandit03_attack_NOhitbox_1: 8169127850252763042
+      Bandit03_attack_NOhitbox_10: -6620432607876669606
+      Bandit03_attack_NOhitbox_11: 6895578212569580424
+      Bandit03_attack_NOhitbox_12: -1764490976013610747
+      Bandit03_attack_NOhitbox_13: -2227363001154263118
+      Bandit03_attack_NOhitbox_14: -5931614194732901606
+      Bandit03_attack_NOhitbox_15: 5640543995413555520
+      Bandit03_attack_NOhitbox_16: -6444068610457074852
+      Bandit03_attack_NOhitbox_17: -137995302412217090
+      Bandit03_attack_NOhitbox_18: 7986699451155468200
+      Bandit03_attack_NOhitbox_19: -2485991180468881447
+      Bandit03_attack_NOhitbox_2: 3198807845016946381
+      Bandit03_attack_NOhitbox_3: -7580024001203435971
+      Bandit03_attack_NOhitbox_4: 4681574901428858525
+      Bandit03_attack_NOhitbox_5: -1123540334073846180
+      Bandit03_attack_NOhitbox_6: -3007313641623618086
+      Bandit03_attack_NOhitbox_7: -7711976837247577169
+      Bandit03_attack_NOhitbox_8: -2514799878865793555
+      Bandit03_attack_NOhitbox_9: -12685824041670580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

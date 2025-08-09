@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4219d78adc1125946b8874c757677b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -738665035827796526
+    second: Spider02_attack_NOhitbox_0
+  - first:
+      213: 61579296581338167
+    second: Spider02_attack_NOhitbox_1
+  - first:
+      213: -5250016298595398574
+    second: Spider02_attack_NOhitbox_2
+  - first:
+      213: 985886237168937408
+    second: Spider02_attack_NOhitbox_3
+  - first:
+      213: 1247017220159167977
+    second: Spider02_attack_NOhitbox_4
+  - first:
+      213: 2819408220375718062
+    second: Spider02_attack_NOhitbox_5
+  - first:
+      213: 5355204659884721453
+    second: Spider02_attack_NOhitbox_6
+  - first:
+      213: 157994688846444804
+    second: Spider02_attack_NOhitbox_7
+  - first:
+      213: -5584872667594526944
+    second: Spider02_attack_NOhitbox_8
+  - first:
+      213: -68342631561486604
+    second: Spider02_attack_NOhitbox_9
+  - first:
+      213: -6126693789214739422
+    second: Spider02_attack_NOhitbox_10
+  - first:
+      213: 5531222038412463367
+    second: Spider02_attack_NOhitbox_11
+  - first:
+      213: 4062554878104996689
+    second: Spider02_attack_NOhitbox_12
+  - first:
+      213: 5833318514836055878
+    second: Spider02_attack_NOhitbox_13
+  - first:
+      213: 920769989269146348
+    second: Spider02_attack_NOhitbox_14
+  - first:
+      213: 9124251887035949885
+    second: Spider02_attack_NOhitbox_15
+  - first:
+      213: 1252927732479980873
+    second: Spider02_attack_NOhitbox_16
+  - first:
+      213: 1918514221348899408
+    second: Spider02_attack_NOhitbox_17
+  - first:
+      213: -8874639170067653862
+    second: Spider02_attack_NOhitbox_18
+  - first:
+      213: -5978883307802882554
+    second: Spider02_attack_NOhitbox_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 575
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5ab73401cbfb5f0800000000000000
+      internalID: -738665035827796526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 569
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734cf324b06cad000800000000000000
+      internalID: 61579296581338167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 569
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc5310ef13427b0800000000000000
+      internalID: -5250016298595398574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 569
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a66b2f429ead00800000000000000
+      internalID: 985886237168937408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 569
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd1640e8b4e4110800000000000000
+      internalID: 1247017220159167977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 407
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea89f4ca6dc802720800000000000000
+      internalID: 2819408220375718062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 407
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2502fbd342815a40800000000000000
+      internalID: 5355204659884721453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 407
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4093719155f413200800000000000000
+      internalID: 157994688846444804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 407
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f6d3416eb8e72b0800000000000000
+      internalID: -5584872667594526944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_9
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 407
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe13ca1db23d0ff0800000000000000
+      internalID: -68342631561486604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 239
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2247346957c99faa0800000000000000
+      internalID: -6126693789214739422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d03656329d2cc40800000000000000
+      internalID: 5531222038412463367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 239
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b8af52328116830800000000000000
+      internalID: 4062554878104996689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 239
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6472382784c14f050800000000000000
+      internalID: 5833318514836055878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_14
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 239
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea4a324d6b37cc00800000000000000
+      internalID: 920769989269146348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 71
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3327f7bfbadf9e70800000000000000
+      internalID: 9124251887035949885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94574b7622b436110800000000000000
+      internalID: 1252927732479980873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 71
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a4904058eef9a10800000000000000
+      internalID: 1918514221348899408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 71
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b9956d1b2f6d480800000000000000
+      internalID: -8874639170067653862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider02_attack_NOhitbox_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 71
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e85ec1f4db60da0800000000000000
+      internalID: -5978883307802882554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider02_attack_NOhitbox_0: -738665035827796526
+      Spider02_attack_NOhitbox_1: 61579296581338167
+      Spider02_attack_NOhitbox_10: -6126693789214739422
+      Spider02_attack_NOhitbox_11: 5531222038412463367
+      Spider02_attack_NOhitbox_12: 4062554878104996689
+      Spider02_attack_NOhitbox_13: 5833318514836055878
+      Spider02_attack_NOhitbox_14: 920769989269146348
+      Spider02_attack_NOhitbox_15: 9124251887035949885
+      Spider02_attack_NOhitbox_16: 1252927732479980873
+      Spider02_attack_NOhitbox_17: 1918514221348899408
+      Spider02_attack_NOhitbox_18: -8874639170067653862
+      Spider02_attack_NOhitbox_19: -5978883307802882554
+      Spider02_attack_NOhitbox_2: -5250016298595398574
+      Spider02_attack_NOhitbox_3: 985886237168937408
+      Spider02_attack_NOhitbox_4: 1247017220159167977
+      Spider02_attack_NOhitbox_5: 2819408220375718062
+      Spider02_attack_NOhitbox_6: 5355204659884721453
+      Spider02_attack_NOhitbox_7: 157994688846444804
+      Spider02_attack_NOhitbox_8: -5584872667594526944
+      Spider02_attack_NOhitbox_9: -68342631561486604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

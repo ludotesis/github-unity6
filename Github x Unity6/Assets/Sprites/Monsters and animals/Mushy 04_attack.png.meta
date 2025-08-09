@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: d7d763d2a751f10408885f9cb383f629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8915390643099591815
+    second: Mushy 04_attack_0
+  - first:
+      213: 5867146805470082816
+    second: Mushy 04_attack_1
+  - first:
+      213: -6678679698696778718
+    second: Mushy 04_attack_2
+  - first:
+      213: -3077629805893560340
+    second: Mushy 04_attack_3
+  - first:
+      213: -1270664409401051336
+    second: Mushy 04_attack_4
+  - first:
+      213: -723363145606073418
+    second: Mushy 04_attack_5
+  - first:
+      213: -5060037511085290571
+    second: Mushy 04_attack_6
+  - first:
+      213: 370249504652212884
+    second: Mushy 04_attack_7
+  - first:
+      213: -1310598972401653848
+    second: Mushy 04_attack_8
+  - first:
+      213: -1853886507117473339
+    second: Mushy 04_attack_9
+  - first:
+      213: -6379533252168577556
+    second: Mushy 04_attack_10
+  - first:
+      213: -7162517705601532852
+    second: Mushy 04_attack_11
+  - first:
+      213: -3040114835264094833
+    second: Mushy 04_attack_12
+  - first:
+      213: 7727833706223820859
+    second: Mushy 04_attack_13
+  - first:
+      213: 5314738162632712100
+    second: Mushy 04_attack_14
+  - first:
+      213: -1029014734743220407
+    second: Mushy 04_attack_15
+  - first:
+      213: -6643327016610312688
+    second: Mushy 04_attack_16
+  - first:
+      213: 3221265353027416334
+    second: Mushy 04_attack_17
+  - first:
+      213: -8213166019436977374
+    second: Mushy 04_attack_18
+  - first:
+      213: -359813908966552472
+    second: Mushy 04_attack_19
+  - first:
+      213: 462577600496275795
+    second: Mushy 04_attack_20
+  - first:
+      213: -2274076149410315775
+    second: Mushy 04_attack_21
+  - first:
+      213: -285530342605546992
+    second: Mushy 04_attack_22
+  - first:
+      213: 474769318067865607
+    second: Mushy 04_attack_23
+  - first:
+      213: 2699242122422315202
+    second: Mushy 04_attack_24
+  - first:
+      213: 1574203947377077743
+    second: Mushy 04_attack_25
+  - first:
+      213: -1948815750204300281
+    second: Mushy 04_attack_26
+  - first:
+      213: 1549161917226159837
+    second: Mushy 04_attack_27
+  - first:
+      213: 3977250413062304550
+    second: Mushy 04_attack_28
+  - first:
+      213: 1922981649946951121
+    second: Mushy 04_attack_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushy 04_attack_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 575
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784eacbdd84d9bb70800000000000000
+      internalID: 8915390643099591815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 539
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007bc112fea4c6150800000000000000
+      internalID: 5867146805470082816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 530
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cc09ef2309053a0800000000000000
+      internalID: -6678679698696778718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 572
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce75f8d5fff0a45d0800000000000000
+      internalID: -3077629805893560340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_4
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 572
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8373be0b371bd5ee0800000000000000
+      internalID: -1270664409401051336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 524
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b37a863d0916f5f0800000000000000
+      internalID: -723363145606073418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_6
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 518
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0c9161b227c9b0800000000000000
+      internalID: -5060037511085290571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 407
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3f0b76f3632500800000000000000
+      internalID: 370249504652212884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 407
+        width: 131
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7e10fad21dfcde0800000000000000
+      internalID: -1310598972401653848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 407
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19f594b0ca546e0800000000000000
+      internalID: -1853886507117473339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_10
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 419
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced03bfae485777a0800000000000000
+      internalID: -6379533252168577556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 407
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cbc2c6810a99c90800000000000000
+      internalID: -7162517705601532852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_12
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 440
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d30bf1aa75fc5d0800000000000000
+      internalID: -3040114835264094833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 407
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e2cedfc7ce3b60800000000000000
+      internalID: 7727833706223820859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 425
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af5fe1433eb1c940800000000000000
+      internalID: 5314738162632712100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 239
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fccfafc8438b1f0800000000000000
+      internalID: -1029014734743220407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 239
+        width: 131
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ecf28b6492ec3a0800000000000000
+      internalID: -6643327016610312688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 239
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01f87685cb34bc20800000000000000
+      internalID: 3221265353027416334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 239
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22366224509f40e80800000000000000
+      internalID: -8213166019436977374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 251
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ccdcaf72fa10bf0800000000000000
+      internalID: -359813908966552472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 239
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35112a670e76b6600800000000000000
+      internalID: 462577600496275795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_21
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 272
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102c53a6acbd070e0800000000000000
+      internalID: -2274076149410315775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 257
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a966c8aa7990cf0800000000000000
+      internalID: -285530342605546992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 71
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70880b9ed28b69600800000000000000
+      internalID: 474769318067865607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 131
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e0cdb862a57520800000000000000
+      internalID: 2699242122422315202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_25
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 161
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedad6f4622b8d510800000000000000
+      internalID: 1574203947377077743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 71
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704e264866a64f4e0800000000000000
+      internalID: -1948815750204300281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 32
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde04df4e8abf7510800000000000000
+      internalID: 1549161917226159837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 71
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623ba55ad28023730800000000000000
+      internalID: 3977250413062304550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushy 04_attack_29
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 71
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddbeaa4f9dcfaa10800000000000000
+      internalID: 1922981649946951121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mushy 04_attack_0: 8915390643099591815
+      Mushy 04_attack_1: 5867146805470082816
+      Mushy 04_attack_10: -6379533252168577556
+      Mushy 04_attack_11: -7162517705601532852
+      Mushy 04_attack_12: -3040114835264094833
+      Mushy 04_attack_13: 7727833706223820859
+      Mushy 04_attack_14: 5314738162632712100
+      Mushy 04_attack_15: -1029014734743220407
+      Mushy 04_attack_16: -6643327016610312688
+      Mushy 04_attack_17: 3221265353027416334
+      Mushy 04_attack_18: -8213166019436977374
+      Mushy 04_attack_19: -359813908966552472
+      Mushy 04_attack_2: -6678679698696778718
+      Mushy 04_attack_20: 462577600496275795
+      Mushy 04_attack_21: -2274076149410315775
+      Mushy 04_attack_22: -285530342605546992
+      Mushy 04_attack_23: 474769318067865607
+      Mushy 04_attack_24: 2699242122422315202
+      Mushy 04_attack_25: 1574203947377077743
+      Mushy 04_attack_26: -1948815750204300281
+      Mushy 04_attack_27: 1549161917226159837
+      Mushy 04_attack_28: 3977250413062304550
+      Mushy 04_attack_29: 1922981649946951121
+      Mushy 04_attack_3: -3077629805893560340
+      Mushy 04_attack_4: -1270664409401051336
+      Mushy 04_attack_5: -723363145606073418
+      Mushy 04_attack_6: -5060037511085290571
+      Mushy 04_attack_7: 370249504652212884
+      Mushy 04_attack_8: -1310598972401653848
+      Mushy 04_attack_9: -1853886507117473339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

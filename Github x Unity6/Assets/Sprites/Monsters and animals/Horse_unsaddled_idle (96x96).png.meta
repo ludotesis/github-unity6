@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 00eaffb5d618ec04cafc80a56b4c10ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5260839968874770456
+    second: Horse_unsaddled_idle (96x96)_0
+  - first:
+      213: 3275335773636228108
+    second: Horse_unsaddled_idle (96x96)_1
+  - first:
+      213: 1538025952004376036
+    second: Horse_unsaddled_idle (96x96)_2
+  - first:
+      213: 9162565371144529083
+    second: Horse_unsaddled_idle (96x96)_3
+  - first:
+      213: 4885308854864929438
+    second: Horse_unsaddled_idle (96x96)_4
+  - first:
+      213: 1408717984337188328
+    second: Horse_unsaddled_idle (96x96)_5
+  - first:
+      213: 1996770982691301413
+    second: Horse_unsaddled_idle (96x96)_6
+  - first:
+      213: -5790802508545965259
+    second: Horse_unsaddled_idle (96x96)_7
+  - first:
+      213: 7600189013619641263
+    second: Horse_unsaddled_idle (96x96)_8
+  - first:
+      213: 5078265648066016209
+    second: Horse_unsaddled_idle (96x96)_9
+  - first:
+      213: -984955763264800277
+    second: Horse_unsaddled_idle (96x96)_10
+  - first:
+      213: 6353596466622657678
+    second: Horse_unsaddled_idle (96x96)_11
+  - first:
+      213: 1776993572150451810
+    second: Horse_unsaddled_idle (96x96)_12
+  - first:
+      213: -8740509964064292137
+    second: Horse_unsaddled_idle (96x96)_13
+  - first:
+      213: -6314883622039094504
+    second: Horse_unsaddled_idle (96x96)_14
+  - first:
+      213: 3169202093948350853
+    second: Horse_unsaddled_idle (96x96)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 287
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efca03ebedbdf6b0800000000000000
+      internalID: -5260839968874770456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 287
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0477bb5884547d20800000000000000
+      internalID: 3275335773636228108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 287
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58d8c547a285510800000000000000
+      internalID: 1538025952004376036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 287
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb46d52e8a8f72f70800000000000000
+      internalID: 9162565371144529083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 191
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e926b40258a1cc340800000000000000
+      internalID: 4885308854864929438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e55f150b85cc8310800000000000000
+      internalID: 1408717984337188328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5286f1121a4f5bb10800000000000000
+      internalID: 1996770982691301413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 191
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5334da9accfe2afa0800000000000000
+      internalID: -5790802508545965259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab00aee3ab497960800000000000000
+      internalID: 7600189013619641263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33b0c73bf997640800000000000000
+      internalID: 5078265648066016209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9b02ba3fbb452f0800000000000000
+      internalID: -984955763264800277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 95
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e847837d2528c2850800000000000000
+      internalID: 6353596466622657678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e1e2c2d3629a810800000000000000
+      internalID: 1776993572150451810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d28f243f7873b680800000000000000
+      internalID: -8740509964064292137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b7d6eadc60d58a0800000000000000
+      internalID: -6314883622039094504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_unsaddled_idle (96x96)_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581373763844bfb20800000000000000
+      internalID: 3169202093948350853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Horse_unsaddled_idle (96x96)_0: -5260839968874770456
+      Horse_unsaddled_idle (96x96)_1: 3275335773636228108
+      Horse_unsaddled_idle (96x96)_10: -984955763264800277
+      Horse_unsaddled_idle (96x96)_11: 6353596466622657678
+      Horse_unsaddled_idle (96x96)_12: 1776993572150451810
+      Horse_unsaddled_idle (96x96)_13: -8740509964064292137
+      Horse_unsaddled_idle (96x96)_14: -6314883622039094504
+      Horse_unsaddled_idle (96x96)_15: 3169202093948350853
+      Horse_unsaddled_idle (96x96)_2: 1538025952004376036
+      Horse_unsaddled_idle (96x96)_3: 9162565371144529083
+      Horse_unsaddled_idle (96x96)_4: 4885308854864929438
+      Horse_unsaddled_idle (96x96)_5: 1408717984337188328
+      Horse_unsaddled_idle (96x96)_6: 1996770982691301413
+      Horse_unsaddled_idle (96x96)_7: -5790802508545965259
+      Horse_unsaddled_idle (96x96)_8: 7600189013619641263
+      Horse_unsaddled_idle (96x96)_9: 5078265648066016209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
